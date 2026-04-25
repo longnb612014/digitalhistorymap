@@ -1,0 +1,280 @@
+{
+  "__REGION_NORTH__": "--- DỮ LIỆU MIỀN BẮC ---",
+  "ha-noi": {
+    "name": "THỦ ĐÔ HÀ NỘI",
+    "events": [
+      { "year": "1010", "title": "Chiếu dời đô và Định đô Thăng Long", "detail": "Vua Lý Thái Tổ ban Chiếu dời đô từ kinh đô Hoa Lư về thành Đại La. Chứng kiến thế đất 'Rồng cuộn hổ ngồi', Ngài đổi tên thành thành Thăng Long, mở đầu cho kỷ nguyên rực rỡ nhất của văn minh Đại Việt." },
+      { "year": "1428", "title": "Hội thề Đông Quan và Giải phóng Thăng Long", "detail": "Sau chiến thắng Chi Lăng - Xương Giang, nghĩa quân Lam Sơn bao vây thành Đông Quan (Hà Nội ngày nay), buộc tướng vương Thông của nhà Minh phải đầu hàng và rút quân về nước, khôi phục nền độc lập." },
+      { "year": "1945", "title": "Khai sinh nước Việt Nam Dân chủ Cộng hòa", "detail": "Ngày 2/9, tại Quảng trường Ba Đình lịch sử, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập trước hàng vạn đồng bào, khẳng định chủ quyền và quyền tự do của dân tộc Việt Nam trước toàn thế giới." },
+      { "year": "1954", "title": "Ngày Giải phóng Thủ đô", "detail": "Ngày 10/10, các cánh quân của quân đội Nhân dân Việt Nam tiến về tiếp quản Thủ đô trong rừng cờ hoa rực rỡ, kết thúc 9 năm kháng chiến chống thực dân Pháp gian khổ nhưng hào hùng." },
+      { "year": "1972", "title": "Chiến thắng Điện Biên Phủ trên không", "detail": "Trong 12 ngày đêm cuối tháng 12, quân và dân Hà Nội đã đánh bại cuộc tập kích chiến lược bằng siêu pháo đài bay B-52 của Mỹ, bảo vệ vững chắc bầu trời Thủ đô và buộc đối phương phải ký Hiệp định Paris." },
+      { "year": "2008", "title": "Mở rộng địa giới hành chính Thủ đô", "detail": "Hà Nội chính thức hợp nhất với tỉnh Hà Tây và một phần các tỉnh Vĩnh Phúc, Hòa Bình, trở thành một trong những Thủ đô có diện tích lớn nhất thế giới, tạo không gian phát triển mới cho tương lai." }
+    ]
+  },
+  "hai-phong-moi": {
+    "name": "TP. HẢI PHÒNG - HẢI DƯƠNG",
+    "events": [
+      { "year": "938", "title": "Đại thắng sông Bạch Đằng", "detail": "Ngô Quyền dùng chiến thuật cọc gỗ bọc sắt tiêu diệt quân Nam Hán trên dòng sông Bạch Đằng (Thủy Nguyên). Chiến thắng vĩ đại này chính thức chấm dứt hơn 1000 năm Bắc thuộc, mở ra thời kỳ độc lập tự chủ lâu dài." },
+      { "year": "1427", "title": "Trận Chi Lăng - Xương Giang", "detail": "Tại vùng đất Hải Dương xưa, nghĩa quân Lam Sơn đã tổ chức phục kích và tiêu diệt hoàn toàn 10 vạn viện binh của nhà Minh do Liễu Thăng chỉ huy, tạo bước ngoặt quyết định cho công cuộc giải phóng dân tộc." },
+      { "year": "1888", "title": "Thành lập thành phố Hải Phòng", "detail": "Tổng thống Pháp ký sắc lệnh thành lập thành phố Hải Phòng. Với vị trí chiến lược cửa ngõ ra biển, Hải Phòng nhanh chóng trở thành một đô thị cảng hiện đại và sầm uất bậc nhất Đông Dương." },
+      { "year": "1955", "title": "Ngày giải phóng Hải Phòng", "detail": "Ngày 13/5, những tên lính Pháp cuối cùng rút khỏi Bến Nghiêng (Đồ Sơn), Hải Phòng hoàn toàn sạch bóng quân xâm lược, đánh dấu mốc lịch sử 'Hải Phòng đi trước về sau' trong kháng chiến chống Pháp." },
+      { "year": "2018", "title": "Khởi động Tổ hợp sản xuất ô tô VinFast", "detail": "Tại đảo Cát Hải, tổ hợp sản xuất ô tô hiện đại bậc nhất khu vực được khánh thành, đánh dấu sự chuyển mình mạnh mẽ của Hải Phòng từ thành phố cảng thuần túy sang trung tâm công nghiệp công nghệ cao." }
+    ]
+  },
+  "tuyen-quang-moi": {
+    "name": "VÙNG TUYÊN QUANG - HÀ GIANG",
+    "events": [
+      { "year": "1945", "title": "Quốc dân Đại hội Tân Trào", "detail": "Tại Đình Tân Trào (Sơn Dương), Quốc dân Đại hội đã họp và nhất trí thông qua chủ trương Tổng khởi nghĩa, bầu ra Ủy ban Giải phóng dân tộc (Chính phủ lâm thời) do đồng chí Hồ Chí Minh làm Chủ tịch." },
+      { "year": "1947", "title": "Chiến thắng Việt Bắc Thu - Đông", "detail": "Quân và dân vùng chiến khu Việt Bắc đã đập tan cuộc tấn công quy mô lớn của thực dân Pháp, bảo vệ an toàn các cơ quan đầu não kháng chiến và đánh dấu sự thất bại của chiến lược 'đánh nhanh thắng nhanh'." },
+      { "year": "1979", "title": "Cuộc chiến đấu bảo vệ biên giới phía Bắc", "detail": "Quân và dân Hà Giang đã kiên cường chiến đấu bảo vệ từng tấc đất thiêng liêng tại mặt trận Vị Xuyên, biểu tượng cho tinh thần quyết chiến quyết thắng của dân tộc tại vùng địa đầu Tổ quốc." },
+      { "year": "2010", "title": "Công viên Địa chất toàn cầu Cao nguyên đá Đồng Văn", "detail": "UNESCO chính thức công nhận Cao nguyên đá Đồng Văn là Công viên địa chất toàn cầu, đưa vẻ đẹp hùng vĩ của vùng núi phía Bắc Việt Nam lên bản đồ du lịch và bảo tồn quốc tế." }
+    ]
+  },
+  "son-la-moi": {
+    "name": "VÙNG SƠN LA - ĐIỆN BIÊN - LAI CHÂU",
+    "events": [
+      { "year": "1930", "title": "Ngục tù Sơn La - Biểu tượng ý chí kiên cường", "detail": "Thực dân Pháp xây dựng nhà tù Sơn La nhằm giam cầm và tiêu diệt ý chí của những người cộng sản Việt Nam. Tuy nhiên, nơi đây đã trở thành 'trường học cách mạng', nơi rèn luyện nhiều nhà lãnh đạo xuất sắc." },
+      { "year": "1954", "title": "Chiến thắng chấn động địa cầu Điện Biên Phủ", "detail": "Sau 56 ngày đêm khoét núi ngủ hầm, quân đội ta đã tiêu diệt hoàn toàn tập đoàn cứ điểm mạnh nhất của Pháp tại thung lũng Mường Thanh, kết thúc thắng lợi cuộc kháng chiến chống Pháp." },
+      { "year": "2012", "title": "Khánh thành Công trình Thủy điện Sơn La", "detail": "Công trình thủy điện lớn nhất Đông Nam Á chính thức đi vào vận hành toàn bộ, mang lại nguồn điện khổng lồ phục vụ công nghiệp hóa và khẳng định bản lĩnh trí tuệ của đội ngũ kỹ sư Việt Nam." }
+    ]
+  },
+  "lao-cai-moi": {
+    "name": "VÙNG LÀO CAI - YÊN BÁI",
+    "events": [
+      { "year": "1930", "title": "Khởi nghĩa Yên Bái", "detail": "Cuộc khởi nghĩa do Nguyễn Thái Học lãnh đạo đã bùng nổ, dù không thành công nhưng tinh thần 'không thành công cũng thành nhân' đã thổi bùng ngọn lửa yêu nước trong quần chúng nhân dân." },
+      { "year": "1905", "title": "Khám phá vùng đất Sapa", "detail": "Người Pháp chính thức khảo sát và phát hiện ra thung lũng Sapa thơ mộng, sau đó xây dựng nơi đây thành trạm nghỉ dưỡng lý tưởng, khởi đầu cho một trung tâm du lịch quốc tế ngày nay." },
+      { "year": "2014", "title": "Thông xe cao tốc Nội Bài - Lào Cai", "detail": "Tuyến cao tốc dài nhất Việt Nam được đưa vào sử dụng, rút ngắn thời gian di chuyển và mở ra vận hội phát triển kinh tế đột phá cho các tỉnh miền núi phía Bắc với đồng bằng." }
+    ]
+  },
+  "thai-nguyen-moi": {
+    "name": "VÙNG THÁI NGUYÊN - BẮC KẠN",
+    "events": [
+      { "year": "1947", "title": "Thủ đô kháng chiến ATK Định Hóa", "detail": "Vùng ATK Định Hóa (Thái Nguyên) trở thành nơi ở và làm việc của Bác Hồ và Trung ương Đảng, là nơi đưa ra những quyết sách mang tính sống còn đối với vận mệnh dân tộc trong kháng chiến chống Pháp." },
+      { "year": "1962", "title": "Thành lập Khu công nghiệp Gang thép Thái Nguyên", "detail": "Được coi là 'cái nôi của ngành luyện kim Việt Nam', khu công nghiệp đi vào hoạt động đánh dấu bước tiến quan trọng trong công cuộc xây dựng cơ sở vật chất cho chủ nghĩa xã hội ở miền Bắc." }
+    ]
+  },
+  "lang-son-moi": {
+    "name": "VÙNG LẠNG SƠN - CAO BẰNG",
+    "events": [
+      { "year": "1941", "title": "Bác Hồ về nước trực tiếp lãnh đạo cách mạng", "detail": "Sau 30 năm bôn ba, ngày 28/1, Bác Hồ đã vượt biên giới Trung - Việt về đến Pác Bó (Cao Bằng). Người sống trong hang Cốc Bó, đặt tên suối Lê-nin, núi Các-mác để chỉ đạo phong trào cách mạng." },
+      { "year": "1950", "title": "Chiến dịch Biên giới Thu - Đông", "detail": "Quân đội ta mở chiến dịch tấn công dọc biên giới Lạng Sơn - Cao Bằng, giải phóng nhiều thị xã quan trọng, khai thông đường liên lạc với các nước xã hội chủ nghĩa, tạo bước ngoặt lớn cho kháng chiến." }
+    ]
+  },
+  "phu-tho-moi": {
+    "name": "VÙNG PHÚ THỌ - HÒA BÌNH - VĨNH PHÚC",
+    "events": [
+      { "year": "Thời đại Hùng Vương", "title": "Dựng nước Văn Lang", "detail": "Vùng đất Phong Châu (Phú Thọ) được chọn làm kinh đô của nhà nước Văn Lang - nhà nước đầu tiên của người Việt, nơi khởi nguồn của truyền thống hướng về nguồn cội với Đền Hùng linh thiêng." },
+      { "year": "1994", "title": "Khánh thành Nhà máy Thủy điện Hòa Bình", "detail": "Sau 15 năm xây dựng với sự giúp đỡ của Liên Xô, nhà máy thủy điện trên sông Đà khánh thành, là công trình thế kỷ giải quyết cơn khát năng lượng của miền Bắc và trị thủy sông Hồng." }
+    ]
+  },
+  "ninh-binh-moi": {
+    "name": "VÙNG NINH BÌNH - NAM ĐỊNH - HÀ NAM",
+    "events": [
+      { "year": "968", "title": "Đinh Bộ Lĩnh thống nhất giang sơn", "detail": "Sau khi dẹp loạn 12 sứ quân, Đinh Bộ Lĩnh lên ngôi Hoàng đế, lập nên triều đại nhà Đinh và chọn Hoa Lư (Ninh Bình) làm kinh đô, khẳng định nền độc lập của dân tộc." },
+      { "year": "1285", "title": "Hào khí Đông A và Hành cung Tức Mặc", "detail": "Vùng đất Nam Định là quê hương của các vua Trần, nơi diễn ra những quyết sách quan trọng trong ba lần đại thắng quân Nguyên Mông, hun đúc nên tinh thần tự cường mãnh liệt." },
+      { "year": "2014", "title": "Di sản văn hóa và thiên nhiên thế giới Tràng An", "detail": "Quần thể danh thắng Tràng An được UNESCO công nhận là Di sản hỗn hợp đầu tiên tại Việt Nam, tôn vinh giá trị địa chất và lịch sử cư trú của người tiền sử." }
+    ]
+  },
+  "quang-ninh": {
+    "name": "TỈNH QUẢNG NINH",
+    "events": [
+      { "year": "1288", "title": "Chiến thắng sông Bạch Đằng lần thứ ba", "detail": "Trần Hưng Đạo tiếp tục sử dụng bãi cọc trên sông Bạch Đằng để tiêu diệt gọn hạm đội của quân Nguyên Mông do Ô Mã Nhi chỉ huy, chấm dứt hoàn toàn ý đồ xâm lược của đế chế Mông Cổ xuống Đông Nam Á." },
+      { "year": "1994", "title": "Vịnh Hạ Long trở thành Di sản thiên nhiên thế giới", "detail": "Lần đầu tiên UNESCO công nhận vẻ đẹp kiến tạo địa chất đặc sắc của Vịnh Hạ Long, đưa Quảng Ninh trở thành tâm điểm du lịch toàn cầu với hàng nghìn đảo đá vôi kỳ vĩ." }
+    ]
+  },
+  "bac-ninh": {
+    "name": "TỈNH BẮC NINH",
+    "events": [
+      { "year": "Thời kỳ Lý - Trần", "title": "Cái nôi của Phật giáo và Giáo dục", "detail": "Vùng đất Kinh Bắc với chùa Dâu, chùa Phật Tích là trung tâm Phật giáo cổ xưa nhất. Nơi đây cũng là 'đất học' với số lượng trạng nguyên, tiến sĩ nhiều nhất cả nước qua các vương triều." },
+      { "year": "2009", "title": "Dân ca Quan họ được vinh danh", "detail": "Dân ca Quan họ Bắc Ninh chính thức được UNESCO công nhận là Di sản văn hóa phi vật thể đại diện của nhân loại, khẳng định sức sống bền bỉ của một loại hình nghệ thuật tinh tế và hào hoa." }
+    ]
+  },
+  
+  "__REGION_CENTRAL__": "--- DỮ LIỆU MIỀN TRUNG ---",
+  "thanh-nghe-tinh": {
+    "name": "VÙNG THANH NGHỆ TĨNH",
+    "events": [
+      { "year": "1418", "title": "Khởi nghĩa Lam Sơn bùng nổ", "detail": "Tại vùng núi Lam Sơn (Thanh Hóa), Lê Lợi phất cờ khởi nghĩa chống quân Minh xâm lược. Cuộc kháng chiến trường kỳ 10 năm đã tôi luyện nên ý chí sắt đá của quân dân vùng 'địa linh nhân kiệt'." },
+      { "year": "1789", "title": "Phượng Hoàng Trung Đô", "detail": "Vua Quang Trung - Nguyễn Huệ cho xây dựng kinh đô thứ hai tại vùng đất Nghệ An (Núi Quyết), thể hiện tầm nhìn chiến lược về một trung tâm chính trị giữa hai miền đất nước." },
+      { "year": "1930", "title": "Phong trào Xô Viết Nghệ Tĩnh", "detail": "Đỉnh cao là các cuộc biểu tình của công nông Nghệ An và Hà Tĩnh, thiết lập chính quyền Xô viết tại các xã, trở thành ngọn cờ đầu trong phong trào cách mạng Việt Nam dưới sự lãnh đạo của Đảng." },
+      { "year": "1968", "title": "Huyền thoại Ngã ba Đồng Lộc", "detail": "Cuộc chiến đấu anh dũng và sự hy sinh của 10 cô gái thanh niên xung phong tại Ngã ba Đồng Lộc (Hà Tĩnh) đã trở thành biểu tượng bất tử cho tinh thần 'xẻ dọc Trường Sơn đi cứu nước'." }
+    ]
+  },
+  "quang-binh-tri": {
+    "name": "VÙNG QUẢNG BÌNH TRỊ",
+    "events": [
+      { "year": "1627 - 1672", "title": "Lũy Thầy và ranh giới Trịnh - Nguyễn", "detail": "Hệ thống thành lũy kiên cố tại Quảng Bình do Đào Duy Từ chỉ huy xây dựng đã biến nơi đây thành 'bức tường thép' bảo vệ Đàng Trong suốt thời kỳ phân tranh." },
+      { "year": "1954", "title": "Vĩ tuyến 17 và Sông Bến Hải", "detail": "Hiệp định Geneva xác định sông Bến Hải (Quảng Trị) là giới tuyến quân sự tạm thời, bắt đầu 20 năm chia cắt đất nước và biến nơi đây thành túi bom ác liệt nhất hành tinh." },
+      { "year": "1972", "title": "81 ngày đêm bảo vệ Thành cổ Quảng Trị", "detail": "Cuộc chiến đấu khốc liệt bảo vệ Thành cổ đã trở thành một khúc tráng ca bất tử, nơi mỗi tấc đất, nhành cỏ đều thấm đẫm máu xương của các anh hùng liệt sĩ." },
+      { "year": "2003", "title": "Vườn quốc gia Phong Nha - Kẻ Bàng", "detail": "UNESCO công nhận Phong Nha - Kẻ Bàng (Quảng Bình) là Di sản thiên nhiên thế giới, vinh danh hệ thống hang động kỳ vĩ và những giá trị địa chất hàng triệu năm." }
+    ]
+  },
+  "thua-thien-hue": {
+    "name": "TỈNH THỪA THIÊN HUẾ",
+    "events": [
+      { "year": "1802", "title": "Gia Long lên ngôi và chọn Huế làm Kinh đô", "detail": "Vua Gia Long chính thức lập nên triều Nguyễn, chọn Phú Xuân (Huế) làm thủ phủ của quốc gia thống nhất, khởi công xây dựng Kinh thành và các công trình kiến trúc cung đình đặc sắc." },
+      { "year": "1945", "title": "Vua Bảo Đại thoái vị", "detail": "Lễ thoái vị của vị vua cuối cùng triều Nguyễn diễn ra tại Ngọ Môn, chấm dứt hoàn toàn chế độ quân chủ tại Việt Nam, mở ra kỷ nguyên cộng hòa." },
+      { "year": "1993", "title": "Quần thể di tích Cố đô Huế được vinh danh", "detail": "UNESCO công nhận Cố đô Huế là Di sản Văn hóa Thế giới đầu tiên của Việt Nam, khẳng định giá trị văn hóa, kiến trúc và tâm hồn của một kinh đô xưa." }
+    ]
+  },
+  "da-nang": {
+    "name": "TP. ĐÀ NẴNG",
+    "events": [
+      { "year": "1858", "title": "Liên quân Pháp - Tây Ban Nha nổ súng tại Sơn Trà", "detail": "Đà Nẵng trở thành nơi đối đầu trực diện đầu tiên với thực dân phương Tây. Quân dân dưới sự chỉ huy của Nguyễn Tri Phương đã kiên cường kháng cự tại bán đảo Sơn Trà." },
+      { "year": "1997", "title": "Đà Nẵng trở thành Thành phố trực thuộc Trung ương", "detail": "Việc tách khỏi tỉnh Quảng Nam - Đà Nẵng mở ra thời kỳ phát triển bứt phá về hạ tầng đô thị, biến Đà Nẵng thành 'Thành phố đáng sống' nhất Việt Nam." }
+    ]
+  },
+  "quang-nam-ngai": {
+    "name": "VÙNG QUẢNG NAM NGÃI",
+    "events": [
+      { "year": "Thế kỷ 4 - 13", "title": "Thánh địa Mỹ Sơn và vương triều Chăm Pa", "detail": "Vùng đất Quảng Nam là trung tâm tôn giáo quan trọng của vương quốc Chăm Pa với tổ hợp đền đài Mỹ Sơn kỳ vĩ, thể hiện sự tinh xảo trong nghệ thuật kiến trúc gạch nung." },
+      { "year": "Thế kỷ 17", "title": "Thương cảng Hội An sầm uất", "detail": "Hội An (Faifo) trở thành thương cảng quốc tế sầm uất nhất Đông Nam Á, nơi giao thoa văn hóa giữa Việt Nam, Nhật Bản, Trung Hoa và các thương nhân phương Tây." },
+      { "year": "1930", "title": "Khởi nghĩa Ba Tơ", "detail": "Tại vùng núi Quảng Ngãi, đội du kích Ba Tơ được thành lập, là đơn vị vũ trang cách mạng đầu tiên tại miền Trung chuẩn bị cho Tổng khởi nghĩa tháng Tám." }
+    ]
+  },
+  "binh-dinh-phu-yen": {
+    "name": "VÙNG BÌNH ĐỊNH PHÚ YÊN",
+    "events": [
+      { "year": "1771", "title": "Khởi nghĩa Tây Sơn bùng nổ", "detail": "Ba anh em nhà Tây Sơn dấy binh tại vùng đất Bình Định, lật đổ tập đoàn phong kiến Trịnh - Nguyễn và đánh tan quân xâm lược Xiêm, Thanh, thống nhất đất nước." },
+      { "year": "1964", "title": "Huyền thoại Tàu không số - Vũng Rô", "detail": "Vịnh Vũng Rô (Phú Yên) là một trong những điểm tiếp nhận vũ khí quan trọng của Đường mòn Hồ Chí Minh trên biển, minh chứng cho sự mưu trí và dũng cảm của quân dân miền Trung." }
+    ]
+  },
+  "khanh-hoa-ninh-thuan": {
+    "name": "VÙNG KHÁNH HÒA NINH THUẬN",
+    "events": [
+      { "year": "1924", "title": "Thành lập Viện Hải dương học Nha Trang", "detail": "Cơ sở nghiên cứu biển đầu tiên tại Đông Dương được xây dựng, khẳng định giá trị đặc biệt của hệ sinh thái biển Nha Trang đối với khoa học thế giới." },
+      { "year": "2024", "title": "Khánh thành Cao tốc Cam Lâm - Vĩnh Hảo", "detail": "Tuyến giao thông trọng điểm xuyên qua các vùng đồi cát ven biển, kết nối các trung tâm du lịch lớn và thúc đẩy kinh tế phía Nam Trung Bộ." }
+    ]
+  },
+  "binh-thuan": {
+    "name": "TỈNH BÌNH THUẬN",
+    "events": [
+      { "year": "1910", "title": "Bác Hồ dạy học tại Trường Dục Thanh", "detail": "Trước khi vào Nam tìm đường cứu nước, người thanh niên Nguyễn Tất Thành đã dừng chân dạy học tại ngôi trường do các sĩ phu yêu nước lập nên ở Phan Thiết." },
+      { "year": "1995", "title": "Sự kiện Nhật thực toàn phần và Du lịch Mũi Né", "detail": "Hàng ngàn nhà khoa học và khách du lịch đổ về Mũi Né xem nhật thực, mở đầu cho việc khám phá và biến nơi đây thành 'Thủ đô Resort' của Việt Nam." }
+    ]
+  },
+  "gia-lai-kon-tum": {
+    "name": "VÙNG GIA LAI KON TUM",
+    "events": [
+      { "year": "1972", "title": "Chiến dịch Đăk Tô - Tân Cảnh", "detail": "Trận đánh lớn tiêu diệt căn cứ quân sự mạnh nhất của Mỹ - Ngụy tại vùng cực Bắc Tây Nguyên, tạo đà quan trọng cho cuộc tổng tiến công năm 1975." },
+      { "year": "2005", "title": "Không gian văn hóa Cồng chiêng Tây Nguyên", "detail": "UNESCO vinh danh giá trị tinh thần và cộng đồng đặc sắc của đồng bào các dân tộc Gia Rai, Ba Na... khẳng định bản sắc văn hóa núi rừng Tây Nguyên." }
+    ]
+  },
+  "dak-lak": {
+    "name": "TỈNH ĐẮK LẮK",
+    "events": [
+      { "year": "1904", "title": "Thành lập tỉnh Đắk Lắk", "detail": "Pháp chính thức đặt bộ máy hành chính tại Buôn Ma Thuột, bắt đầu thời kỳ khai thác thuộc địa và hình thành các đồn điền cà phê đầu tiên trên vùng đất đỏ bazan." },
+      { "year": "1975", "title": "Chiến thắng Buôn Ma Thuột", "detail": "Trận đánh then chốt mở màn cho Chiến dịch Tây Nguyên và cuộc Tổng tiến công mùa Xuân 1975, dẫn đến sự sụp đổ nhanh chóng của chính quyền Sài Gòn." }
+    ]
+  },
+  "dak-nong-lam-dong": {
+    "name": "VÙNG ĐẮK NÔNG LÂM ĐÔNG",
+    "events": [
+      { "year": "1893", "title": "Bác sĩ Yersin tìm ra cao nguyên Lâm Viên", "detail": "Sự phát hiện của bác sĩ Alexandre Yersin dẫn đến việc hình thành thành phố Đà Lạt - một trung tâm nghỉ dưỡng và nghiên cứu khoa học nổi tiếng toàn cầu." },
+      { "year": "1912 - 1936", "title": "Khởi nghĩa N'Trang Lơng", "detail": "Cuộc khởi nghĩa vũ trang trường kỳ của đồng bào M'Nông chống lại thực dân Pháp tại vùng đất Đắk Nông, biểu tượng cho lòng yêu nước của các dân tộc Tây Nguyên." }
+    ]
+  },
+
+  "__REGION_SOUTH__": "--- DỮ LIỆU MIỀN NAM ---",
+  "binh-phuoc-tay-ninh": {
+    "name": "VÙNG BÌNH PHƯỚC TÂY NINH",
+    "events": [
+      { "year": "1961", "title": "Thành lập Trung ương Cục miền Nam", "detail": "Căn cứ địa cách mạng được thiết lập tại chiến khu Bắc Tây Ninh, trở thành 'Thủ đô kháng chiến' - nơi đưa ra những chỉ thị chiến lược cho toàn chiến trường miền Nam." },
+      { "year": "1972", "title": "Chiến dịch Nguyễn Huệ và Giải phóng Lộc Ninh", "detail": "Lộc Ninh (Bình Phước) trở thành huyện đầu tiên ở miền Nam được hoàn toàn giải phóng, là nơi đặt trụ sở Chính phủ Cách mạng lâm thời Cộng hòa miền Nam Việt Nam." },
+      { "year": "1975", "title": "Chiến thắng Phước Long", "detail": "Trận đánh 'trinh sát chiến lược' tại tỉnh Phước Long cũ (nay thuộc Bình Phước), tạo tiền đề quan trọng cho Bộ Chính trị quyết định kế hoạch giải phóng hoàn toàn miền Nam." }
+    ]
+  },
+  "binh-duong-dong-nai": {
+    "name": "VÙNG BÌNH DƯƠNG ĐÒNG NAI",
+    "events": [
+      { "year": "1698", "title": "Lễ Thành hầu Nguyễn Hữu Cảnh kinh lược phương Nam", "detail": "Thiết lập đơn vị hành chính đầu tiên tại vùng đất Đồng Nai (Dinh Trấn Biên), chính thức khẳng định chủ quyền của nước Việt trên vùng đất phương Nam." },
+      { "year": "1960", "title": "Phong trào Đồng khởi ở Bến Cát", "detail": "Cuộc nổi dậy tại các đồn điền cao su Bình Dương đã phá vỡ hệ thống kìm kẹp của địch, mở rộng vùng giải phóng và hình thành nên 'Tam giác sắt' huyền thoại." },
+      { "year": "1975", "title": "Chiến thắng Xuân Lộc - Cánh cửa thép tan rã", "detail": "Quân đoàn 4 đập tan 'cánh cửa thép' Xuân Lộc (Đồng Nai), tuyến phòng thủ cuối cùng bảo vệ Sài Gòn từ phía Đông, mở toang con đường tiến về dinh Độc Lập." }
+    ]
+  },
+  "tp-ho-chi-minh": {
+    "name": "TP. HỒ CHÍ MINH",
+    "events": [
+      { "year": "1859", "title": "Pháp tấn công thành Gia Định", "detail": "Quân Pháp nổ súng đánh chiếm thành Gia Định, mở đầu cho cuộc xâm lược kéo dài và quá trình quy hoạch Sài Gòn thành 'Hòn ngọc Viễn Đông'." },
+      { "year": "1911", "title": "Người thanh niên Nguyễn Tất Thành tìm đường cứu nước", "detail": "Từ Bến cảng Nhà Rồng, người thanh niên yêu nước Nguyễn Tất Thành xuống tàu Amiral Latouche Tréville ra đi tìm đường giải phóng dân tộc." },
+      { "year": "1975", "title": "Chiến dịch Hồ Chí Minh lịch sử", "detail": "Trưa ngày 30/4, xe tăng quân giải phóng húc đổ cổng dinh Độc Lập, kết thúc cuộc kháng chiến chống Mỹ cứu nước, thống nhất non sông về một mối." },
+      { "year": "1976", "title": "Sài Gòn chính thức mang tên Chủ tịch Hồ Chí Minh", "detail": "Quốc hội khóa VI quyết định đổi tên thành phố Sài Gòn - Gia Định thành Thành phố Hồ Chí Minh, vinh danh vị lãnh tụ vĩ đại của dân tộc." }
+    ]
+  },
+  "ba-ria-vung-tau": {
+    "name": "BÀ RỊA VŨNG TÀU",
+    "events": [
+      { "year": "1964", "title": "Chiến thắng Bình Giã", "detail": "Trận đánh lớn tiêu diệt nhiều tiểu đoàn chủ lực của quân đội Sài Gòn tại Bà Rịa, đánh dấu sự thất bại của chiến lược 'Chiến tranh đặc biệt' của Mỹ." },
+      { "year": "1981", "title": "Thành lập Liên doanh Dầu khí Vietsovpetro", "detail": "Mở đầu cho ngành công nghiệp dầu khí hiện đại tại Việt Nam với việc khai thác những dòng dầu đầu tiên từ thềm lục địa Vũng Tàu." }
+    ]
+  },
+  "long-an-tien-giang": {
+    "name": "VÙNG LONG AN TIỀN GIANG",
+    "events": [
+      { "year": "1785", "title": "Chiến thắng Rạch Gầm - Xoài Mút", "detail": "Trên dòng sông Tiền (Tiền Giang), anh hùng áo vải Nguyễn Huệ đã dùng hỏa công tiêu diệt hoàn toàn 5 vạn quân Xiêm xâm lược, một trong những trận thủy chiến lừng lẫy nhất." },
+      { "year": "1963", "title": "Chiến thắng Ấp Bắc", "detail": "Trận đánh tại Mỹ Tho (Tiền Giang) lần đầu tiên bẻ gãy chiến thuật 'trực thăng vận' và 'thiết xa vận' của Mỹ, dấy lên phong trào thi đua 'Ấp Bắc giết giặc lập công'." }
+    ]
+  },
+  "dong-thap-an-giang": {
+    "name": "VÙNG ĐỒNG THÁP AN GIANG",
+    "events": [
+      { "year": "1867", "title": "Cụ Đồ Chiểu và tinh thần yêu nước Lục Tỉnh", "detail": "Dù Pháp chiếm trọn Nam Kỳ, các sĩ phu tại An Giang, Đồng Tháp vẫn giữ vững khí tiết. Vùng đất này trở thành nơi lưu giữ truyền thống yêu nước bền bỉ của người dân phương Nam." },
+      { "year": "1979", "title": "Chiến tranh bảo vệ biên giới Tây Nam", "detail": "Quân và dân An Giang kiên cường chống trả cuộc tấn công của tập đoàn Pol Pot, bảo vệ sự bình yên cho nhân dân và toàn vẹn lãnh thổ biên cương." }
+    ]
+  },
+  "vinh-long-can-tho": {
+    "name": "VÙNG VĨNH LONG CẦN THƠ",
+    "events": [
+      { "year": "1940", "title": "Khởi nghĩa Nam Kỳ", "detail": "Cuộc khởi nghĩa bùng nổ mạnh mẽ tại Vĩnh Long, Cần Thơ. Lần đầu tiên lá cờ đỏ sao vàng xuất hiện, biểu tượng cho khát vọng độc lập của nhân dân miền Tây." },
+      { "year": "2010", "title": "Khánh thành cầu Cần Thơ", "detail": "Cây cầu dây văng có nhịp chính dài nhất Đông Nam Á nối liền đôi bờ sông Hậu, phá bỏ thế 'lụy phà' hàng trăm năm và thúc đẩy kinh tế toàn vùng Đồng bằng sông Cửu Long." }
+    ]
+  },
+  "ben-tre-tra-vinh": {
+    "name": "VÙNG BẾN TRE TRÀ VINH",
+    "events": [
+      { "year": "1960", "title": "Phong trào Đồng Khởi", "detail": "Dưới sự lãnh đạo của nữ tướng Nguyễn Thị Định, phong trào 'Đội quân tóc dài' tại Bến Tre đã vùng lên phá kìm kẹp, tạo làn sóng lan rộng khắp miền Nam." },
+      { "year": "2015", "title": "Khánh thành cầu Cổ Chiên", "detail": "Cây cầu huyết mạch nối liền hai tỉnh, phá thế 'ốc đảo' và mở ra vận hội phát triển kinh tế biển cho vùng đất xứ dừa." }
+    ]
+  },
+  "soc-trang-bac-lieu": {
+    "name": "VÙNG SÓC TRĂNG BẠC LIÊU",
+    "events": [
+      { "year": "1927", "title": "Sự kiện Ninh Thạnh Lợi", "detail": "Cuộc đấu tranh quyết liệt của nông dân Bạc Liêu chống lại sự áp bức của địa chủ và thực dân, thể hiện tinh thần phản kháng mạnh mẽ của người dân vùng đất mới." },
+      { "year": "2010", "title": "Dự án Điện gió Bạc Liêu", "detail": "Cánh đồng điện gió ven biển đầu tiên tại Việt Nam đi vào hoạt động, đánh dấu bước tiến trong phát triển năng lượng sạch tại khu vực Tây Nam Bộ." }
+    ]
+  },
+  "kien-giang": {
+    "name": "TỈNH KIÊN GIANG",
+    "events": [
+      { "year": "1708", "title": "Mạc Cửu khai phá vùng đất Hà Tiên", "detail": "Công cuộc khai khẩn và thiết lập thương cảng Hà Tiên sầm uất, sau đó sáp nhập vào bản đồ Đại Việt dưới thời chúa Nguyễn Phúc Chu." },
+      { "year": "1868", "title": "Khởi nghĩa Nguyễn Trung Trực", "detail": "Anh hùng dân tộc Nguyễn Trung Trực lãnh đạo nghĩa quân đánh chiếm đồn Rạch Giá, để lại câu nói bất hủ: 'Bao giờ người Tây nhổ hết cỏ nước Nam mới hết người Nam đánh Tây'." }
+    ]
+  },
+  "ca-mau": {
+    "name": "TỈNH CÀ MAU",
+    "events": [
+      { "year": "1960", "title": "Khởi nghĩa Hòn Khoai", "detail": "Dưới sự chỉ huy của thầy giáo Phan Ngọc Hiển, quân dân Cà Mau đã nổi dậy giành chính quyền tại đảo Hòn Khoai, ghi dấu mốc chói lọi tại điểm cực Nam Tổ quốc." },
+      { "year": "1997", "title": "Cà Mau trở thành tỉnh trực thuộc Trung ương", "detail": "Việc tách ra từ tỉnh Minh Hải giúp Cà Mau tập trung phát triển thế mạnh kinh tế biển, rừng ngập mặn và du lịch sinh thái Đất Mũi." }
+    ]
+  },
+  "hoang-sa": {
+    "name": "QUẦN ĐẢO HOÀNG SA",
+    "events": [
+      { "year": "1816", "title": "Triều Nguyễn xác lập chủ quyền", "detail": "Vua Gia Long cử thủy quân ra cắm mốc." },
+      { "year": "1938", "title": "Thành lập đơn vị hành chính Hoàng Sa", "detail": "Triều đình Huế ban hành sắc lệnh quản lý." },
+      { "year": "1956", "title": "Việt Nam Cộng hòa tiếp quản", "detail": "Chính quyền VNCH quản lý Hoàng Sa." },
+      { "year": "1974", "title": "Hải chiến Hoàng Sa", "detail": "Nhiều chiến sĩ hy sinh bảo vệ chủ quyền." },
+      { "year": "1982", "title": "Khẳng định chủ quyền quốc tế", "detail": "Việt Nam tái khẳng định chủ quyền Hoàng Sa." }
+    ]
+  },
+  "truong-sa": {
+    "name": "QUẦN ĐẢO TRƯỜNG SA",
+    "events": [
+      { "year": "1946", "title": "Tiếp quản Trường Sa", "detail": "Quân đội Việt Nam tiếp quản một số đảo." },
+      { "year": "1956", "title": "VNCH quản lý Trường Sa", "detail": "Chính quyền VNCH đặt đơn vị hành chính." },
+      { "year": "1988", "title": "Chiến đấu bảo vệ Gạc Ma", "detail": "64 chiến sĩ hy sinh bảo vệ đảo Gạc Ma." },
+      { "year": "2007", "title": "Thành lập huyện Trường Sa", "detail": "Chính phủ thành lập huyện Trường Sa thuộc Khánh Hòa." },
+      { "year": "2012", "title": "Xây dựng cơ sở hạ tầng", "detail": "Trường học, bệnh xá được xây dựng trên đảo." }
+    ]
+  }
+}

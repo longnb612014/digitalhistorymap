@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bản đồ số Lịch sử Việt Nam - 34 Tỉnh Thành</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+    <div class="main-container">
+        <div class="map-section">
+            <h1 class="app-title">Bản đồ số Lịch sử Việt Nam</h1>
+            <p class="app-subtitle">Hành trình nghìn năm</p>
+            <div id="map-wrapper"></div>
+        </div>
+
+        <div class="info-section">
+            <div class="search-box">
+                <input type="text" id="search-input" placeholder="Tìm tên tỉnh thành mới hoặc cũ...">
+                <button id="search-btn">Tra cứu</button>
+            </div>
+            
+            <div id="info-content">
+                <!-- Khối mặc định hiển thị bài thơ -->
+                <div id="default-info">
+                    <h2>Nam quốc sơn hà</h2>
+                    <blockquote>
+                        Nam quốc sơn hà Nam đế cư,<br>
+                        Tiệt nhiên định phận tại thiên thư.<br>
+                        Như hà nghịch lỗ lai xâm phạm,<br>
+                        Nhữ đẳng hành khan thủ bại hư.
+                    </blockquote>
+                    <p class="author">Lý Thường Kiệt (thế kỷ XI)</p>
+                </div>
+
+                <!-- Khối hiển thị thông tin vùng -->
+                <div id="region-info" style="display:none;">
+                    <h2 id="province-name">Việt Nam</h2>
+                    <div id="province-history">
+                        <p>Nhấn vào một vùng trên bản đồ để xem lịch sử tiêu biểu.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>

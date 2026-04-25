@@ -1,0 +1,252 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, sans-serif;
+}
+
+body {
+    height: 100vh;
+    overflow: hidden;
+    background: linear-gradient(90deg, #8B0000 0%, #DA1A21 100%);
+}
+
+.main-container {
+    display: flex;
+    height: 100vh;
+    padding: 15px;
+    gap: 0; /* Gắn khít ranh giới giữa 2 vùng */
+}
+
+/* KHU VỰC BẢN ĐỒ - Chiều ngang gọn theo chiều dọc bản đồ */
+.map-section {
+    flex: 3.5; /* Trả lại tỉ lệ gọn gàng */
+    background: rgba(255, 255, 255, 0.1);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 20px;
+    border-radius: 15px 0 0 15px;
+    position: relative;
+    border: 1px solid rgba(255, 255, 255, 0.2);
+    border-right: none;
+}
+
+/* Căn chỉnh Ngôi sao và Tiêu đề trên cùng một trục ngang */
+.map-section::before {
+    content: "★";
+    position: absolute;
+    top: 22px; /* Chỉnh độ cao khớp với tiêu đề */
+    left: 20px;
+    font-size: 45px;
+    color: #FFFF00;
+    text-shadow: 0 0 15px rgba(255, 215, 0, 0.6);
+    z-index: 1;
+}
+
+.app-title {
+    color: #FFFFFF;
+    font-size: 1.6rem;
+    margin-top: 15px; /* Đưa chữ cao lên ngang tầm ngôi sao */
+    font-weight: bold;
+    text-transform: uppercase;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);
+    text-align: center;
+    width: 80%;
+}
+
+.app-subtitle {
+    color: #FFD700;
+    font-weight: 600;
+    font-size: 0.9rem;
+    margin-bottom: 25px;
+}
+
+/* Khung hiển thị bản đồ giữ dáng chữ nhật đứng */
+#map-wrapper {
+    background: #ffffff;
+    width: 500px;   /* tăng chiều ngang */
+    height: 700px;  /* tăng chiều cao */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    overflow: hidden;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+}
+
+#map-wrapper svg {
+    max-width: 100%;
+    max-height: 100%;
+}
+
+/* KHU VỰC NỘI DUNG */
+.info-section {
+    flex: 6.5;
+    padding: 40px;
+    background: url('bg.png') no-repeat center center;
+    background-size: 95% 95%; /* ảnh nhỏ hơn khung một chút */
+    background-position: center;
+    background-color: rgba(255, 255, 255, 0.75); /* lớp nền sáng nhẹ */
+    background-blend-mode: soft-light; /* hòa trộn để ảnh mờ hơn */
+    border-radius: 0 15px 15px 0;
+    overflow-y: auto;
+    box-shadow: -5px 0 15px rgba(0, 0, 0, 0.1);
+    display: flex;
+    flex-direction: column;
+    color: #222; 
+}
+
+#default-info {
+    padding: 40px;
+    border-radius: 10px;
+    color: #222;
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-end; /* đẩy nội dung xuống dưới */
+    height: 100%; /* chiếm toàn bộ chiều cao khung */
+}
+
+#default-info h2 {
+    font-size: 2.2rem;
+    margin-bottom: 25px;
+    color: #8B0000;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-bottom: 3px solid #FFD700; 
+    padding-bottom: 10px;
+}
+
+#default-info blockquote {
+    font-size: 1.5rem;   
+    color: #8B0000;
+    line-height: 2;
+    max-width: 80%;
+}
+
+#default-info .author {
+    margin-top: 20px;
+    font-size: 1.2rem;
+    font-style: italic; 
+    color: #444;
+}
+
+/* Đẩy hộp tìm kiếm lệch về phía bên phải */
+.search-box {
+    display: flex;
+    gap: 10px;
+    margin-bottom: 35px;
+    align-self: flex-end; /* Lệch phải */
+    width: 100%;
+    max-width: 450px; /* Độ dài vừa phải cho thanh tìm kiếm */
+}
+
+input {
+    flex: 1;
+    padding: 10px;
+    border: 2px solid #8B0000;
+    border-radius: 8px;
+    outline: none;
+}
+
+button {
+    padding: 10px 20px;
+    background: #8B0000;
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#province-name {
+    font-size: 2rem;
+    color: #8B0000;
+    margin-bottom: 15px;
+    border-bottom: 4px solid #FFFF00;
+    display: inline-block;
+    font-weight: bold;
+}
+
+#province-history {
+    line-height: 1.8;
+    color: #222;
+    font-size: 1.15rem;
+    text-align: justify;
+}
+
+/* Path bản đồ */
+.province-path {
+    fill: #B2DFDB;
+    stroke: #8B0000;
+    stroke-width: 0.6;
+    transition: 0.3s;
+    cursor: pointer;
+    stroke-linejoin: round; /* Bo tròn các góc nối */
+    stroke-linecap: round;
+}
+
+.province-path:hover {
+    fill: #FFFF00 !important;
+}
+
+.active {
+    fill: #FFFF00 !important;
+    stroke: #FFFFFF;
+    stroke-width: 1.5;
+}
+
+/* Container của Timeline */
+.timeline-container {
+    padding-left: 20px;
+    border-left: 3px solid #8B0000;
+    margin-top: 20px;
+}
+
+/* Từng mục sự kiện */
+.timeline-item {
+    position: relative;
+    margin-bottom: 25px;
+    padding-left: 15px;
+}
+
+/* Nút chấm trên dòng thời gian */
+.timeline-item::before {
+    content: '';
+    position: absolute;
+    left: -29px;
+    top: 5px;
+    width: 15px;
+    height: 15px;
+    background: #FFFF00;
+    border: 3px solid #8B0000;
+    border-radius: 50%;
+}
+
+/* Năm diễn ra sự kiện */
+.timeline-year {
+    font-weight: bold;
+    color: #8B0000;
+    font-size: 1.1rem;
+    background: #FFD700;
+    display: inline-block;
+    padding: 2px 10px;
+    border-radius: 5px;
+    margin-bottom: 5px;
+}
+
+/* Nội dung chi tiết sự kiện */
+.timeline-content h4 {
+    margin: 5px 0;
+    color: #222;
+    font-size: 1.2rem;
+}
+
+.timeline-content p {
+    font-size: 1rem;
+    color: #444;
+    line-height: 1.5;
+}
