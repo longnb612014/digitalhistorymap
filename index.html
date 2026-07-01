@@ -1,0 +1,230 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>BẢN ĐỒ LỊCH SỬ VIỆT NAM</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <div class="dashboard">
+    <aside class="sidebar">
+      <div class="brand">
+        <div class="brand-icon"><span>★</span></div>
+        <div class="brand-copy">
+          <h1>BẢN ĐỒ LỊCH SỬ VIỆT NAM</h1>
+          <p>Hành trình nghìn năm</p>
+        </div>
+      </div>
+
+      <div class="map-panel">
+        <div id="map"></div>
+        <div id="jn-year-display" class="jn-year-overlay" style="display:none"></div>
+      </div>
+    </aside>
+
+    <main class="content">
+
+      <!-- ── Mode navigation header ── -->
+      <nav class="mode-nav" aria-label="Chế độ xem">
+        <button class="mode-btn active" data-mode="home">🏛️ Trang chủ</button>
+        <button class="mode-btn" data-mode="explore">🔍 Khám phá</button>
+        <button class="mode-btn" data-mode="timeline">📅 Giai đoạn</button>
+        <button class="mode-btn" data-mode="journey">🧭 Hành trình</button>
+        <button class="mode-btn" data-mode="quiz">🎯 Hỏi đáp</button>
+      </nav>
+
+      <!-- ── Panel 0: Trang chủ ── -->
+      <section class="mode-panel active" id="panel-home" aria-label="Trang chủ">
+        <div class="panel-inner home-inner">
+          <div class="poem-wrap">
+            <h2 class="poem-title">NAM QUỐC SƠN HÀ</h2>
+
+            <div class="poem-chinese">
+              <span class="poem-script-label">Hán Nôm</span>
+              <p>南國山河南帝居</p>
+              <p>截然定分在天書</p>
+              <p>如何逆虜來侵犯</p>
+              <p>汝等行看取敗虛</p>
+            </div>
+
+            <div class="poem-viet">
+              <span class="poem-script-label">Dịch nghĩa</span>
+              <p>Sông núi nước Nam vua Nam ở</p>
+              <p>Vằng vặc sách trời chia xứ sở</p>
+              <p>Giặc dữ cớ sao phạm đến đây</p>
+              <p>Chúng mày nhất định phải tan vỡ</p>
+            </div>
+
+            <p class="poem-author">— Lý Thường Kiệt, 1077</p>
+          </div>
+        </div>
+      </section>
+
+      <!-- ── Panel 1: Explore ── -->
+      <section class="mode-panel" id="panel-explore" aria-label="Chế độ Khám phá">
+        <div class="panel-inner ep-panel">
+
+          <!-- Search bar -->
+          <div class="ep-search-box">
+            <div class="ep-search-row">
+              <input id="search-input" type="text" placeholder="Tìm tên tỉnh, thành phố hoặc đảo..." />
+              <button id="search-button" type="button">Tra cứu</button>
+            </div>
+            <p class="ep-search-error" id="search-error"></p>
+          </div>
+
+          <!-- Province info (or welcome state) -->
+          <div id="explore-result" class="ep-result">
+            <div class="ep-welcome" id="ep-welcome">
+              <div class="ep-welcome-top">
+                <span class="ep-welcome-star">★</span>
+                <h2 class="ep-welcome-title">Bản đồ Lịch sử Việt Nam</h2>
+                <p class="ep-welcome-guide">Click vào tỉnh thành để xem lịch sử chi tiết</p>
+              </div>
+              <div class="ep-periods">
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">🏺</span>
+                  <div><strong>Văn Lang – Âu Lạc</strong><span>2879 – 179 TCN</span></div>
+                </div>
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">🏯</span>
+                  <div><strong>Bắc thuộc</strong><span>179 TCN – 938</span></div>
+                </div>
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">⚔️</span>
+                  <div><strong>Tự chủ phong kiến</strong><span>939 – 1527</span></div>
+                </div>
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">🏰</span>
+                  <div><strong>Nội chiến &amp; phân liệt</strong><span>1527 – 1802</span></div>
+                </div>
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">👑</span>
+                  <div><strong>Triều Nguyễn</strong><span>1802 – 1945</span></div>
+                </div>
+                <div class="ep-period-item">
+                  <span class="ep-period-icon">🌟</span>
+                  <div><strong>Việt Nam hiện đại</strong><span>1945 – nay</span></div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- ── Panel 2: Timeline ── -->
+      <section class="mode-panel" id="panel-timeline" aria-label="Chế độ Timeline">
+        <div class="panel-inner tl-panel">
+
+          <div class="tl-selector-box">
+            <p class="tl-selector-heading">CHỌN GIAI ĐOẠN LỊCH SỬ</p>
+            <div class="tl-period-grid">
+              <button class="tl-period-btn" data-era="thuong-co"><span class="tl-num">①</span>Thượng cổ</button>
+              <button class="tl-period-btn" data-era="bac-thuoc"><span class="tl-num">②</span>Bắc thuộc</button>
+              <button class="tl-period-btn tl-active" data-era="doc-lap"><span class="tl-num">③</span>Độc lập tự chủ</button>
+              <button class="tl-period-btn" data-era="dai-viet"><span class="tl-num">④</span>Đại Việt thịnh trị</button>
+              <button class="tl-period-btn" data-era="can-dai"><span class="tl-num">⑤</span>Cận đại &amp; Thực dân</button>
+              <button class="tl-period-btn" data-era="hien-dai"><span class="tl-num">⑥</span>Kháng chiến &amp; Thống nhất</button>
+            </div>
+          </div>
+
+          <div class="tl-period-summary">
+            <h2 class="tl-period-title" id="tl-period-title">Độc lập tự chủ</h2>
+            <div class="tl-period-meta-row">
+              <span class="tl-period-years" id="tl-period-years">938 – 1427</span>
+              <span class="tl-meta-dot">·</span>
+              <span class="tl-event-count-text"><span id="tl-event-count">–</span> sự kiện từ nhiều tỉnh thành</span>
+            </div>
+            <div class="tl-legend">
+              <span class="tl-legend-label">Ít sự kiện</span>
+              <div class="tl-legend-swatches" id="tl-legend-swatches">
+                <span></span><span></span><span></span><span></span><span></span>
+              </div>
+              <span class="tl-legend-label">Nhiều sự kiện</span>
+            </div>
+          </div>
+
+          <div id="timeline-events" class="tl-event-list"></div>
+
+        </div>
+      </section>
+
+      <!-- ── Panel 3: Journey ── -->
+      <section class="mode-panel" id="panel-journey" aria-label="Chế độ Journey">
+        <div class="panel-inner jn-panel">
+
+          <div class="jn-period-bar">
+            <p class="jn-bar-heading">CHỌN GIAI ĐOẠN</p>
+            <div class="jn-period-grid" id="jn-period-grid"></div>
+          </div>
+
+          <div class="jn-summary">
+            <h2 class="jn-period-name" id="jn-period-name"></h2>
+            <div class="jn-meta-row">
+              <span class="jn-period-years" id="jn-period-years"></span>
+              <span class="jn-meta-sep">·</span>
+              <span class="jn-event-counter" id="jn-event-counter"></span>
+            </div>
+            <div class="jn-progress-wrap">
+              <div class="jn-progress-bar"><div class="jn-progress-fill" id="jn-progress-fill"></div></div>
+            </div>
+          </div>
+
+          <div id="jn-event-list" class="jn-event-list"></div>
+
+          <div class="jn-end-overlay jn-hidden" id="jn-end-overlay"></div>
+
+          <div class="jn-controls">
+            <div class="jn-ctrl-row">
+              <button class="jn-ctrl-btn" id="jn-first" title="Về đầu">|◀</button>
+              <button class="jn-ctrl-btn" id="jn-prev" title="Lùi">◀</button>
+              <button class="jn-ctrl-btn jn-play-btn" id="jn-play">▶ Phát</button>
+              <button class="jn-ctrl-btn" id="jn-next" title="Tiếp">▶</button>
+              <button class="jn-ctrl-btn" id="jn-last" title="Về cuối">▶|</button>
+            </div>
+            <div class="jn-speed-row">
+              <span class="jn-speed-label">Chậm</span>
+              <button class="jn-speed-btn" data-speed="5000">5s</button>
+              <button class="jn-speed-btn jn-speed-active" data-speed="3000">3s</button>
+              <button class="jn-speed-btn" data-speed="1500">1.5s</button>
+              <span class="jn-speed-label">Nhanh</span>
+            </div>
+          </div>
+
+        </div>
+      </section>
+
+      <!-- ── Panel 4: Quiz ── -->
+      <section class="mode-panel" id="panel-quiz" aria-label="Chế độ Quiz">
+        <div class="panel-inner">
+          <div class="quiz-header">
+            <div class="qz-meta-row">
+              <span id="qz-counter" class="qz-counter">Câu – / 10</span>
+              <span id="qz-type-badge" class="qz-type-badge"></span>
+              <span id="qz-score" class="qz-score-pts">0 điểm</span>
+              <button class="quiz-restart-btn" id="quiz-restart">↺ Làm lại</button>
+            </div>
+            <div class="quiz-progress-bar">
+              <div class="quiz-progress-fill" id="quiz-progress-fill"></div>
+            </div>
+          </div>
+          <div id="quiz-content" class="quiz-content"></div>
+        </div>
+      </section>
+
+      <!-- Image modal (shared) -->
+      <div id="image-modal" class="image-modal" hidden>
+        <button type="button" id="close-image-modal" class="close-image-modal" aria-label="Đóng ảnh lớn">×</button>
+        <img id="modal-image" src="" alt="Ảnh lớn minh hoạ sự kiện" />
+      </div>
+
+    </main>
+  </div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>

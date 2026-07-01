@@ -1,0 +1,1808 @@
+{
+  "Hà Nội": {
+    "title": "Vùng Thủ đô Hà Nội",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Hà Nội"
+    ],
+    "events": [
+      {
+        "year": "1010",
+        "title": "Kinh đô Thăng Long được thành lập",
+        "text": "Lý Công Uẩn dời đô từ Hoa Lư về Thăng Long, đánh dấu khởi đầu hơn nghìn năm Hà Nội là trái tim của đất nước.",
+        "detail": "Năm 1010, vua Lý Thái Tổ (Lý Công Uẩn) viết Chiếu dời đô, chọn vùng đất Long Đỗ bên bờ sông Nhị Hà làm kinh đô mới, đặt tên là Thăng Long (rồng bay lên). Từ đây, Thăng Long trở thành trung tâm chính trị, kinh tế, văn hóa suốt các triều Lý, Trần, Lê, là nơi hội tụ tinh hoa dân tộc trong hơn 1000 năm."
+      },
+      {
+        "year": "1070",
+        "title": "Văn Miếu Quốc Tử Giám được xây dựng",
+        "text": "Vua Lý Thánh Tông cho xây Văn Miếu thờ Khổng Tử, sau đó năm 1076 thành lập Quốc Tử Giám — trường đại học đầu tiên của Việt Nam.",
+        "detail": "Văn Miếu được xây năm 1070 để thờ Khổng Tử và các bậc hiền triết. Năm 1076, vua Lý Nhân Tông thành lập Quốc Tử Giám bên cạnh Văn Miếu để dạy học cho con em quý tộc và sau này mở rộng cho con em bình dân tài năng. Đây là trường đại học đầu tiên trong lịch sử Việt Nam, đặt nền móng cho truyền thống hiếu học của người Hà Nội và cả nước."
+      },
+      {
+        "year": "1285",
+        "title": "Hà Nội ba lần chống quân Mông Cổ",
+        "text": "Thăng Long ba lần bị quân Nguyên Mông chiếm đóng (1258, 1285, 1288) nhưng quân dân Đại Việt đều đánh bật và giành lại kinh đô.",
+        "detail": "Quân Mông Cổ—lực lượng mạnh nhất thế giới thế kỷ 13—ba lần tấn công Đại Việt (1258, 1285, 1287). Mỗi lần Thăng Long thất thủ, triều đình và nhân dân thực hiện 'vườn không nhà trống', rút lui chiến lược, rồi phản công tiêu diệt địch. Trận Bạch Đằng năm 1288 dưới sự chỉ huy của Trần Hưng Đạo đã kết thúc hoàn toàn âm mưu xâm lược của đế chế Mông Cổ."
+      },
+      {
+        "year": "1428",
+        "title": "Lê Lợi giải phóng Thăng Long khỏi nhà Minh",
+        "text": "Sau 10 năm khởi nghĩa Lam Sơn, Lê Lợi đánh đuổi quân Minh, giành lại Thăng Long, lập triều Lê sơ và đổi tên nước thành Đại Việt.",
+        "detail": "Từ năm 1407, nhà Minh đô hộ Đại Việt, đổi tên nước thành Giao Chỉ. Năm 1418, Lê Lợi phát động khởi nghĩa Lam Sơn từ Thanh Hóa. Sau 10 năm chiến đấu gian khổ, năm 1427 quân Minh buộc phải rút lui. Tháng 4 năm 1428, Lê Lợi lên ngôi hoàng đế tại Thăng Long, lập triều Lê sơ, khôi phục nền độc lập và đổi quốc hiệu thành Đại Việt."
+      },
+      {
+        "year": "1789",
+        "title": "Quang Trung đại phá quân Thanh tại Đống Đa",
+        "text": "Tết Kỷ Dậu 1789, vua Quang Trung (Nguyễn Huệ) thần tốc kéo quân ra Bắc, đánh tan 29 vạn quân Thanh trong 5 ngày, giải phóng Thăng Long.",
+        "detail": "Cuối năm 1788, 29 vạn quân Thanh do Tôn Sĩ Nghị chỉ huy tràn vào Thăng Long theo lời cầu viện của vua Lê Chiêu Thống. Nguyễn Huệ lên ngôi hoàng đế (Quang Trung) tại Phú Xuân rồi thần tốc hành quân ra Bắc. Chỉ trong 5 ngày (từ mồng 3 đến mồng 5 Tết Kỷ Dậu), quân Tây Sơn quét sạch giặc Thanh, tiến vào Thăng Long trong chiến thắng vang dội. Gò Đống Đa trở thành biểu tượng bất khuất của người Hà Nội."
+      },
+      {
+        "year": "1882",
+        "title": "Pháp chiếm thành Hà Nội",
+        "text": "Đại tá Rivière chỉ huy quân Pháp đánh chiếm thành Hà Nội, mở rộng ách thực dân ra toàn miền Bắc.",
+        "detail": "Ngày 25/4/1882, Đại tá Henri Rivière dẫn quân Pháp tấn công thành Hà Nội, Tổng đốc Hoàng Diệu tuẫn tiết để giữ khí tiết. Sự kiện này đánh dấu Hà Nội chính thức rơi vào tay thực dân Pháp. Sau đó, Pháp biến Hà Nội thành thủ phủ của Liên bang Đông Dương (1902), xây dựng nhiều công trình như Phủ Toàn quyền, Nhà hát Lớn, Hồ Hoàn Kiếm được chỉnh trang..."
+      },
+      {
+        "year": "1945",
+        "title": "Tuyên ngôn Độc lập 2/9/1945",
+        "text": "Hà Nội là nơi Chủ tịch Hồ Chí Minh đọc Tuyên ngôn Độc lập ngày 2/9/1945, khai sinh nước Việt Nam Dân chủ Cộng hòa.",
+        "detail": "Ngày 19/8/1945, nhân dân Hà Nội nổi dậy giành chính quyền trong Cách mạng Tháng Tám. Ngày 2/9/1945, tại Quảng trường Ba Đình, Chủ tịch Hồ Chí Minh đọc bản Tuyên ngôn Độc lập khai sinh nước Việt Nam Dân chủ Cộng hòa, chấm dứt gần 100 năm đô hộ của thực dân Pháp. Đây là sự kiện lịch sử trọng đại nhất của thế kỷ 20 tại Hà Nội."
+      },
+      {
+        "year": "1954",
+        "title": "Giải phóng Hà Nội khỏi thực dân Pháp",
+        "text": "Ngày 10/10/1954, quân đội Việt Minh tiến vào tiếp quản Hà Nội sau Hiệp định Genève, kết thúc 9 năm kháng chiến chống Pháp.",
+        "detail": "Sau chiến thắng Điện Biên Phủ (7/5/1954) và Hiệp định Genève, quân Pháp bàn giao Hà Nội. Ngày 10/10/1954, các đơn vị quân đội nhân dân Việt Nam tiến vào tiếp quản Thủ đô trong rừng cờ hoa của người dân Hà Nội. Ngày 10/10 từ đó trở thành Ngày Giải phóng Thủ đô, được kỷ niệm hàng năm với ý nghĩa sâu sắc."
+      },
+      {
+        "year": "1972",
+        "title": "Chiến dịch Điện Biên Phủ trên không",
+        "text": "Tháng 12/1972, Mỹ ném bom B-52 hủy diệt Hà Nội trong 12 ngày đêm, nhưng quân dân Thủ đô bắn rơi 81 máy bay, buộc Mỹ ký Hiệp định Paris.",
+        "detail": "Từ ngày 18 đến 29/12/1972, Mỹ mở chiến dịch Linebacker II, dùng pháo đài bay B-52 ném bom rải thảm Hà Nội và Hải Phòng — cuộc tập kích đường không lớn nhất từ sau Thế chiến II. Quân dân Hà Nội kiên cường chiến đấu, bắn rơi 81 máy bay (trong đó có 34 chiếc B-52), bắt sống nhiều phi công Mỹ. Thất bại này buộc Mỹ phải ký Hiệp định Paris ngày 27/1/1973, rút quân khỏi Việt Nam."
+      },
+      {
+        "year": "1976",
+        "title": "Hà Nội trở thành thủ đô thống nhất",
+        "text": "Sau ngày 30/4/1975, Hà Nội được chọn là thủ đô của nước Việt Nam thống nhất, mở ra kỷ nguyên mới cho cả dân tộc.",
+        "detail": "Tháng 7/1976, Quốc hội nước Cộng hòa Xã hội Chủ nghĩa Việt Nam thống nhất họp tại Hà Nội, chính thức công nhận Hà Nội là thủ đô của nước Việt Nam thống nhất. Từ đây, Hà Nội bước vào giai đoạn xây dựng và phát triển mới, vừa gìn giữ bề dày nghìn năm văn hiến, vừa hiện đại hóa để xứng tầm là trung tâm của một quốc gia thống nhất."
+      }
+    ],
+    "description": "Hà Nội — Thủ đô nghìn năm văn hiến, trung tâm chính trị, kinh tế và văn hóa của Việt Nam, với lịch sử trải dài từ thời Thăng Long đến ngày nay."
+  },
+  "Hồ Chí Minh": {
+    "title": "Vùng Thành phố Hồ Chí Minh",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Thành phố Hồ Chí Minh"
+    ],
+    "events": [
+      {
+        "year": "1698",
+        "title": "Gia Định chính thức trở thành đô thành",
+        "text": "Sài Gòn - Gia Định trở thành trung tâm kinh tế và thương mại quan trọng của vùng Nam Bộ.",
+        "detail": "Sài Gòn - Gia Định trở thành trung tâm kinh tế và thương mại quan trọng của vùng Nam Bộ."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Sài Gòn",
+        "text": "Ngày 30 tháng 4 năm 1975, Sài Gòn được giải phóng, đánh dấu sự thống nhất đất nước.",
+        "detail": "Ngày 30 tháng 4 năm 1975, Sài Gòn được giải phóng, đánh dấu sự thống nhất đất nước."
+      },
+      {
+        "year": "1976",
+        "title": "Đổi tên thành TP. Hồ Chí Minh",
+        "text": "Thành phố được đặt tên theo Chủ tịch Hồ Chí Minh, củng cố vị trí trung tâm kinh tế miền Nam.",
+        "detail": "Thành phố được đặt tên theo Chủ tịch Hồ Chí Minh, củng cố vị trí trung tâm kinh tế miền Nam."
+      }
+    ],
+    "description": "Thành phố trực thuộc trung ương Hồ Chí Minh, trung tâm chính trị, kinh tế và văn hóa của vùng Đông Nam Bộ."
+  },
+  "Đà Nẵng": {
+    "title": "Vùng Đà Nẵng",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Đà Nẵng"
+    ],
+    "events": [
+      {
+        "year": "1471",
+        "title": "Đà Nẵng trở thành một phần của Đại Việt",
+        "text": "Đà Nẵng được sáp nhập vào đất nước Đại Việt dưới thời vua Lê Thánh Tông.",
+        "detail": "Đà Nẵng được sáp nhập vào đất nước Đại Việt dưới thời vua Lê Thánh Tông."
+      },
+      {
+        "year": "1858",
+        "title": "Pháp đổ bộ Đà Nẵng",
+        "text": "Đà Nẵng trở thành một trong những cửa ngõ chiến lược đầu tiên của thực dân Pháp tại Việt Nam.",
+        "detail": "Đà Nẵng trở thành một trong những cửa ngõ chiến lược đầu tiên của thực dân Pháp tại Việt Nam."
+      },
+      {
+        "year": "1997",
+        "title": "Đà Nẵng lên thành phố trực thuộc Trung ương",
+        "text": "Đà Nẵng được nâng cấp thành thành phố trực thuộc trung ương, mở đầu giai đoạn phát triển mạnh mẽ.",
+        "detail": "Đà Nẵng được nâng cấp thành thành phố trực thuộc trung ương, mở đầu giai đoạn phát triển mạnh mẽ."
+      }
+    ],
+    "description": "Thành phố trực thuộc trung ương Đà Nẵng, trung tâm chính trị, kinh tế và văn hóa của vùng Duyên hải Nam Trung Bộ."
+  },
+  "Cần Thơ": {
+    "title": "Vùng Cần Thơ",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Cần Thơ"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Cần Thơ dưới sự thống trị Pháp",
+        "text": "Cần Thơ trở thành trung tâm hành chính của vùng Tây Nam Bộ trong thời kỳ thuộc địa.",
+        "detail": "Cần Thơ trở thành trung tâm hành chính của vùng Tây Nam Bộ trong thời kỳ thuộc địa."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Cần Thơ",
+        "text": "Cần Thơ được giải phóng vào cuối tháng 4 năm 1975, mở ra kỷ nguyên mới cho vùng Đồng bằng sông Cửu Long.",
+        "detail": "Cần Thơ được giải phóng vào cuối tháng 4 năm 1975, mở ra kỷ nguyên mới cho vùng Đồng bằng sông Cửu Long."
+      },
+      {
+        "year": "2004",
+        "title": "Cần Thơ thành phố trực thuộc Trung ương",
+        "text": "Cần Thơ được nâng lên thành phố trực thuộc trung ương, khẳng định vị thế đầu tàu vùng Đồng bằng sông Cửu Long.",
+        "detail": "Cần Thơ được nâng lên thành phố trực thuộc trung ương, khẳng định vị thế đầu tàu vùng Đồng bằng sông Cửu Long."
+      }
+    ],
+    "description": "Thành phố trực thuộc trung ương Cần Thơ, trung tâm chính trị, kinh tế và văn hóa của vùng Đồng bằng sông Cửu Long."
+  },
+  "Hải Phòng": {
+    "title": "Vùng Hải Phòng",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Hải Phòng"
+    ],
+    "events": [
+      {
+        "year": "1887",
+        "title": "Cảng Hải Phòng được xây dựng",
+        "text": "Hải Phòng trở thành đầu mối thương mại và hải cảng quan trọng của miền Bắc.",
+        "detail": "Hải Phòng trở thành đầu mối thương mại và hải cảng quan trọng của miền Bắc."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Hải Phòng nổi dậy giành chính quyền, góp phần vào thành công Cách mạng Tháng Tám.",
+        "detail": "Hải Phòng nổi dậy giành chính quyền, góp phần vào thành công Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1995",
+        "title": "Hải Phòng phát triển cảng quốc tế",
+        "text": "Cảng Hải Phòng trở thành một trong những cảng lớn và hiện đại của khu vực Đông Nam Á.",
+        "detail": "Cảng Hải Phòng trở thành một trong những cảng lớn và hiện đại của khu vực Đông Nam Á."
+      }
+    ],
+    "description": "Thành phố trực thuộc trung ương Hải Phòng, trung tâm chính trị, kinh tế và văn hóa của vùng Đông Bắc Bộ."
+  },
+  "Thừa Thiên Huế": {
+    "title": "Vùng Thừa Thiên Huế",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Thừa Thiên Huế"
+    ],
+    "events": [
+      {
+        "year": "1802",
+        "title": "Huế trở thành kinh đô triều Nguyễn",
+        "text": "Huế được chọn làm kinh đô của nhà Nguyễn, trở thành trung tâm chính trị - văn hóa của Việt Nam.",
+        "detail": "Huế được chọn làm kinh đô của nhà Nguyễn, trở thành trung tâm chính trị - văn hóa của Việt Nam."
+      },
+      {
+        "year": "1968",
+        "title": "Tổng tiến công Tết Mậu Thân tại Huế",
+        "text": "Huế trở thành tâm điểm của cuộc chiến trong chiến dịch Tết Mậu Thân, để lại dấu ấn lịch sử sâu đậm.",
+        "detail": "Huế trở thành tâm điểm của cuộc chiến trong chiến dịch Tết Mậu Thân, để lại dấu ấn lịch sử sâu đậm."
+      },
+      {
+        "year": "1993",
+        "title": "Di sản Huế được UNESCO công nhận",
+        "text": "Quần thể di tích Cố đô Huế được UNESCO công nhận là di sản văn hóa thế giới.",
+        "detail": "Quần thể di tích Cố đô Huế được UNESCO công nhận là di sản văn hóa thế giới."
+      }
+    ],
+    "description": "Thành phố trực thuộc trung ương Thừa Thiên Huế, trung tâm chính trị, kinh tế và văn hóa của vùng Duyên hải Nam Trung Bộ."
+  },
+  "An Giang": {
+    "title": "Vùng An Giang",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "An Giang"
+    ],
+    "events": [
+      {
+        "year": "1832",
+        "title": "Thành lập tỉnh An Giang",
+        "text": "Vua Minh Mạng ra chỉ dụ cải cách hành chính, chính thức thành lập tỉnh An Giang, một trong sáu tỉnh của Nam Kỳ (Nam Kỳ Lục tỉnh).",
+        "detail": "Vua Minh Mạng ra chỉ dụ cải cách hành chính, chính thức thành lập tỉnh An Giang, một trong sáu tỉnh của Nam Kỳ (Nam Kỳ Lục tỉnh)."
+      },
+      {
+        "year": "1867",
+        "title": "Pháp chiếm An Giang",
+        "text": "Quân Pháp chiếm thành Châu Đốc, tỉnh An Giang rơi vào tay thực dân Pháp sau khi Kinh lược sứ Phan Thanh Giản tuẫn tiết.",
+        "detail": "Quân Pháp chiếm thành Châu Đốc, tỉnh An Giang rơi vào tay thực dân Pháp sau khi Kinh lược sứ Phan Thanh Giản tuẫn tiết."
+      },
+      {
+        "year": "1978",
+        "title": "Chiến tranh biên giới Tây Nam tại An Giang",
+        "text": "Quân dân An Giang kiên cường chiến đấu chống lại sự xâm lược của tập đoàn Pol Pot, bảo vệ chủ quyền biên giới quốc gia.",
+        "detail": "Quân dân An Giang kiên cường chiến đấu chống lại sự xâm lược của tập đoàn Pol Pot, bảo vệ chủ quyền biên giới quốc gia."
+      }
+    ],
+    "description": "Tỉnh An Giang thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bà Rịa - Vũng Tàu": {
+    "title": "Vùng Bà Rịa - Vũng Tàu",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Bà Rịa - Vũng Tàu"
+    ],
+    "events": [
+      {
+        "year": "1862",
+        "title": "Bà Rịa - Vũng Tàu trở thành vùng biển chiến lược của Pháp",
+        "text": "Thực dân Pháp dùng Bà Rịa - Vũng Tàu làm căn cứ hải quân, mở đầu kỷ nguyên hành chính hiện đại.",
+        "detail": "Thực dân Pháp dùng Bà Rịa - Vũng Tàu làm căn cứ hải quân, mở đầu kỷ nguyên hành chính hiện đại."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Phong trào Việt Minh bùng phát tại vùng đất ven biển, nhân dân địa phương tham gia giành chính quyền.",
+        "detail": "Phong trào Việt Minh bùng phát tại vùng đất ven biển, nhân dân địa phương tham gia giành chính quyền."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Bà Rịa - Vũng Tàu",
+        "text": "Sau ngày 30/4/1975, tỉnh Bà Rịa - Vũng Tàu hoàn toàn thuộc chủ quyền nước Việt Nam thống nhất.",
+        "detail": "Sau ngày 30/4/1975, tỉnh Bà Rịa - Vũng Tàu hoàn toàn thuộc chủ quyền nước Việt Nam thống nhất."
+      }
+    ],
+    "description": "Tỉnh Bà Rịa - Vũng Tàu thuộc vùng Đông Nam Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bắc Giang": {
+    "title": "Vùng Bắc Giang",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Bắc Giang"
+    ],
+    "events": [
+      {
+        "year": "1886",
+        "title": "Bắc Giang bị Pháp trực tiếp điều hành",
+        "text": "Thực dân Pháp tổ chức lại hành chính vùng Đông Bắc và đặt Bắc Giang dưới sự quản lý mới của chính quyền thuộc địa.",
+        "detail": "Thực dân Pháp tổ chức lại hành chính vùng Đông Bắc và đặt Bắc Giang dưới sự quản lý mới của chính quyền thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Bắc Giang giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Bắc Giang giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1954",
+        "title": "Bắc Giang bước vào thời kỳ xây dựng chính quyền cách mạng",
+        "text": "Sau chiến thắng Điện Biên Phủ, Bắc Giang được giải phóng và bắt đầu tái thiết dưới chính quyền mới.",
+        "detail": "Sau chiến thắng Điện Biên Phủ, Bắc Giang được giải phóng và bắt đầu tái thiết dưới chính quyền mới."
+      }
+    ],
+    "description": "Tỉnh Bắc Giang thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bắc Kạn": {
+    "title": "Vùng Bắc Kạn",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Bắc Kạn"
+    ],
+    "events": [
+      {
+        "year": "1900",
+        "title": "Bắc Kạn được tổ chức lại dưới quyền Pháp",
+        "text": "Quốc lộ và hành chính được thiết lập trong vùng núi, mở đường cho quản lý thuộc địa.",
+        "detail": "Quốc lộ và hành chính được thiết lập trong vùng núi, mở đường cho quản lý thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Lực lượng cách mạng vùng cao giành chính quyền, đưa Bắc Kạn vào cuộc khởi nghĩa.",
+        "detail": "Lực lượng cách mạng vùng cao giành chính quyền, đưa Bắc Kạn vào cuộc khởi nghĩa."
+      },
+      {
+        "year": "1954",
+        "title": "Bắc Kạn được giải phóng",
+        "text": "Sau chiến thắng Điện Biên Phủ, Bắc Kạn trở thành vùng đất tự do và bắt đầu xây dựng chính quyền cách mạng.",
+        "detail": "Sau chiến thắng Điện Biên Phủ, Bắc Kạn trở thành vùng đất tự do và bắt đầu xây dựng chính quyền cách mạng."
+      }
+    ],
+    "description": "Tỉnh Bắc Kạn thuộc vùng Đông Bắc Bộ, nổi bật với văn hóa dân tộc và lịch sử kháng chiến kiên cường."
+  },
+  "Bạc Liêu": {
+    "title": "Vùng Bạc Liêu",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Bạc Liêu"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Bạc Liêu trở thành phần của Nam Kỳ thuộc địa",
+        "text": "Thực dân Pháp thiết lập cơ quan cai trị ở Bạc Liêu, vùng đất này trở thành trung tâm nuôi tằm và mía đường.",
+        "detail": "Thực dân Pháp thiết lập cơ quan cai trị ở Bạc Liêu, vùng đất này trở thành trung tâm nuôi tằm và mía đường."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Bạc Liêu giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Bạc Liêu giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1955",
+        "title": "Bạc Liêu tái lập tỉnh",
+        "text": "Sau khi miền Nam được tạm thời phân chia, Bạc Liêu được tổ chức lại thành tỉnh mới dưới chính quyền cách mạng.",
+        "detail": "Sau khi miền Nam được tạm thời phân chia, Bạc Liêu được tổ chức lại thành tỉnh mới dưới chính quyền cách mạng."
+      }
+    ],
+    "description": "Tỉnh Bạc Liêu thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bắc Ninh": {
+    "title": "Vùng Bắc Ninh",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Bắc Ninh"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Bắc Ninh bị Pháp sáp nhập vào quản lý thuộc địa",
+        "text": "Vùng Kinh Bắc trở thành trọng khu quan trọng với trạm đường sắt và hành chính của Pháp.",
+        "detail": "Vùng Kinh Bắc trở thành trọng khu quan trọng với trạm đường sắt và hành chính của Pháp."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Bắc Ninh - Kinh Bắc giành chính quyền sau khi Nhật đầu hàng.",
+        "detail": "Nhân dân Bắc Ninh - Kinh Bắc giành chính quyền sau khi Nhật đầu hàng."
+      },
+      {
+        "year": "1954",
+        "title": "Bắc Ninh bước vào thời kỳ xây dựng chính quyền mới",
+        "text": "Sau chiến thắng Điện Biên Phủ, tỉnh Bắc Ninh được giải phóng và tái thiết dưới sự lãnh đạo của chính quyền mới.",
+        "detail": "Sau chiến thắng Điện Biên Phủ, tỉnh Bắc Ninh được giải phóng và tái thiết dưới sự lãnh đạo của chính quyền mới."
+      }
+    ],
+    "description": "Tỉnh Bắc Ninh thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bến Tre": {
+    "title": "Vùng Bến Tre",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Bến Tre"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Bến Tre trở thành một tỉnh của Nam Kỳ thuộc địa",
+        "text": "Pháp thiết lập hệ thống kinh tế thuộc địa ở Bến Tre, thúc đẩy sản xuất nông nghiệp và đường thủy.",
+        "detail": "Pháp thiết lập hệ thống kinh tế thuộc địa ở Bến Tre, thúc đẩy sản xuất nông nghiệp và đường thủy."
+      },
+      {
+        "year": "1960",
+        "title": "Phong trào Đồng Khởi bùng nổ ở Bến Tre",
+        "text": "Bến Tre trở thành nơi khai sinh phong trào Đồng Khởi, mở đầu cuộc kháng chiến chống Mỹ ở Nam Bộ.",
+        "detail": "Bến Tre trở thành nơi khai sinh phong trào Đồng Khởi, mở đầu cuộc kháng chiến chống Mỹ ở Nam Bộ."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Bến Tre",
+        "text": "Bến Tre được giải phóng vào cuối tháng 4/1975, mở ra kỷ nguyên phát triển mới cho địa phương.",
+        "detail": "Bến Tre được giải phóng vào cuối tháng 4/1975, mở ra kỷ nguyên phát triển mới cho địa phương."
+      }
+    ],
+    "description": "Tỉnh Bến Tre thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bình Định": {
+    "title": "Vùng Bình Định",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Bình Định"
+    ],
+    "events": [
+      {
+        "year": "1471",
+        "title": "Bình Định trở thành phần của Đại Việt",
+        "text": "Vùng đất Bình Định được sáp nhập vào lãnh thổ Đại Việt dưới triều Lê, mở đầu thời kỳ hoàn chỉnh địa giới.",
+        "detail": "Vùng đất Bình Định được sáp nhập vào lãnh thổ Đại Việt dưới triều Lê, mở đầu thời kỳ hoàn chỉnh địa giới."
+      },
+      {
+        "year": "1885",
+        "title": "Bình Định — phong trào Cần Vương chống Pháp",
+        "text": "Sau Hiệp ước Patenôtre 1884, Bình Định dưới quyền bảo hộ Pháp. Phong trào Cần Vương do Mai Xuân Thưởng lãnh đạo (1885-1887) là cuộc kháng Pháp tiêu biểu của nhân dân Bình Định.",
+        "detail": "Sau khi Pháp ký Hiệp ước Patenôtre (1884), toàn bộ Trung Kỳ đặt dưới quyền bảo hộ Pháp. Bình Định bị đưa vào hệ thống hành chính thuộc địa. Phong trào Cần Vương tại Bình Định (1885-1887) do Mai Xuân Thưởng lãnh đạo là cuộc kháng Pháp tiêu biểu của nhân dân địa phương."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Bình Định",
+        "text": "Sau ngày 30/4/1975, Bình Định được hoàn toàn giải phóng và tiến hành xây dựng lại chính quyền và kinh tế.",
+        "detail": "Sau ngày 30/4/1975, Bình Định được hoàn toàn giải phóng và tiến hành xây dựng lại chính quyền và kinh tế."
+      }
+    ],
+    "description": "Tỉnh Bình Định thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bình Dương": {
+    "title": "Vùng Bình Dương",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Bình Dương"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Bình Dương trở thành vùng hành chính Nam Kỳ thuộc Pháp",
+        "text": "Vùng đất Sông Bé ban đầu thuộc quản lý của Pháp, là điểm khởi đầu cho phát triển cao su và mía đường.",
+        "detail": "Vùng đất Sông Bé ban đầu thuộc quản lý của Pháp, là điểm khởi đầu cho phát triển cao su và mía đường."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Bình Dương giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Bình Dương giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1997",
+        "title": "Bình Dương được thành lập với tên mới",
+        "text": "Tỉnh Bình Dương chính thức tách ra từ tỉnh Sông Bé, đánh dấu bước phát triển hành chính và công nghiệp mạnh mẽ.",
+        "detail": "Tỉnh Bình Dương chính thức tách ra từ tỉnh Sông Bé, đánh dấu bước phát triển hành chính và công nghiệp mạnh mẽ."
+      }
+    ],
+    "description": "Tỉnh Bình Dương thuộc vùng Đông Nam Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bình Phước": {
+    "title": "Vùng Bình Phước",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Bình Phước"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Bình Phước được hình thành dưới sự cai quản của Pháp",
+        "text": "Quốc lộ và đường sắt được mở rộng, biến vùng đất cao nguyên thành khu vực khai thác cao su quan trọng.",
+        "detail": "Quốc lộ và đường sắt được mở rộng, biến vùng đất cao nguyên thành khu vực khai thác cao su quan trọng."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Bình Phước cùng vùng Đông Nam Bộ đồng loạt giành chính quyền.",
+        "detail": "Bình Phước cùng vùng Đông Nam Bộ đồng loạt giành chính quyền."
+      },
+      {
+        "year": "1997",
+        "title": "Bình Phước trở thành tỉnh mới",
+        "text": "Tỉnh Bình Phước được thành lập tách khỏi tỉnh Sông Bé, xác lập vị thế vùng kinh tế mới.",
+        "detail": "Tỉnh Bình Phước được thành lập tách khỏi tỉnh Sông Bé, xác lập vị thế vùng kinh tế mới."
+      }
+    ],
+    "description": "Tỉnh Bình Phước thuộc vùng Đông Nam Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Bình Thuận": {
+    "title": "Vùng Bình Thuận",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Bình Thuận"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Bình Thuận trở thành tỉnh thuộc địa của Pháp",
+        "text": "Thực dân Pháp bắt đầu quản lý vùng duyên hải Nam Trung Bộ, mở tuyến đường bộ và khai thác tài nguyên.",
+        "detail": "Thực dân Pháp bắt đầu quản lý vùng duyên hải Nam Trung Bộ, mở tuyến đường bộ và khai thác tài nguyên."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Bình Thuận giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Bình Thuận giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Bình Thuận",
+        "text": "Bình Thuận được hoàn toàn giải phóng vào cuối cuộc kháng chiến chống Mỹ, mở đường cho phát triển sau chiến tranh.",
+        "detail": "Bình Thuận được hoàn toàn giải phóng vào cuối cuộc kháng chiến chống Mỹ, mở đường cho phát triển sau chiến tranh."
+      }
+    ],
+    "description": "Tỉnh Bình Thuận thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Cà Mau": {
+    "title": "Vùng Cà Mau",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Cà Mau"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Cà Mau về dưới sự quản lý của Pháp",
+        "text": "Thực dân Pháp thiết lập hệ thống hành chính ở mũi Cà Mau, khai phá vùng đất ngập mặn và thương cảng.",
+        "detail": "Thực dân Pháp thiết lập hệ thống hành chính ở mũi Cà Mau, khai phá vùng đất ngập mặn và thương cảng."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Cà Mau cùng Việt Minh giành chính quyền, chấm dứt thuộc địa.",
+        "detail": "Nhân dân Cà Mau cùng Việt Minh giành chính quyền, chấm dứt thuộc địa."
+      },
+      {
+        "year": "1954",
+        "title": "Cà Mau ổn định chính quyền cách mạng",
+        "text": "Sau trận Điện Biên Phủ, Cà Mau bước vào giai đoạn tái thiết chính quyền mới và sản xuất hậu chiến.",
+        "detail": "Sau trận Điện Biên Phủ, Cà Mau bước vào giai đoạn tái thiết chính quyền mới và sản xuất hậu chiến."
+      }
+    ],
+    "description": "Tỉnh Cà Mau thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Cao Bằng": {
+    "title": "Vùng Cao Bằng",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Cao Bằng"
+    ],
+    "events": [
+      {
+        "year": "1886",
+        "title": "Cao Bằng trở thành một trong những căn cứ biên giới của Pháp",
+        "text": "Thực dân Pháp tổ chức trung tâm hành chính và đồn binh ở Cao Bằng, thiết lập hệ thống yên ngựa biên giới.",
+        "detail": "Thực dân Pháp tổ chức trung tâm hành chính và đồn binh ở Cao Bằng, thiết lập hệ thống yên ngựa biên giới."
+      },
+      {
+        "year": "1947",
+        "title": "Cao Bằng trở thành căn cứ kháng chiến Việt Minh",
+        "text": "Cao Bằng được chọn làm căn cứ địa cách mạng quan trọng, nơi tổ chức nhiều chiến dịch chống Pháp.",
+        "detail": "Cao Bằng được chọn làm căn cứ địa cách mạng quan trọng, nơi tổ chức nhiều chiến dịch chống Pháp."
+      },
+      {
+        "year": "1954",
+        "title": "Cao Bằng bước vào thời kỳ giải phóng",
+        "text": "Sau hiệp định Genève, Cao Bằng chính thức thoát ách thực dân và xây dựng lại chính quyền cách mạng.",
+        "detail": "Sau hiệp định Genève, Cao Bằng chính thức thoát ách thực dân và xây dựng lại chính quyền cách mạng."
+      }
+    ],
+    "description": "Tỉnh Cao Bằng thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Đắk Lắk": {
+    "title": "Vùng Đắk Lắk",
+    "region": "Tây Nguyên",
+    "provinces": [
+      "Đắk Lắk"
+    ],
+    "events": [
+      {
+        "year": "1904",
+        "title": "Đắk Lắk trở thành trung tâm hành chính vùng Tây Nguyên",
+        "text": "Thực dân Pháp thành lập Buôn Ma Thuột và phát triển vùng cao nguyên thành khu vực trồng cà phê quan trọng.",
+        "detail": "Thực dân Pháp thành lập Buôn Ma Thuột và phát triển vùng cao nguyên thành khu vực trồng cà phê quan trọng."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Đắk Lắk và Tây Nguyên giành chính quyền từ tay thực dân.",
+        "detail": "Nhân dân Đắk Lắk và Tây Nguyên giành chính quyền từ tay thực dân."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Buôn Ma Thuột",
+        "text": "Đắk Lắk được giải phóng, đưa vùng cao nguyên Tây Nguyên vào thời kỳ phát triển mới của Việt Nam thống nhất.",
+        "detail": "Đắk Lắk được giải phóng, đưa vùng cao nguyên Tây Nguyên vào thời kỳ phát triển mới của Việt Nam thống nhất."
+      }
+    ],
+    "description": "Tỉnh Đắk Lắk thuộc vùng Tây Nguyên, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Đắk Nông": {
+    "title": "Vùng Đắk Nông",
+    "region": "Tây Nguyên",
+    "provinces": [
+      "Đắk Nông"
+    ],
+    "events": [
+      {
+        "year": "1909",
+        "title": "Đắk Nông nằm trong vùng cai quản thuộc Pháp",
+        "text": "Khu vực tỉnh Đắk Nông được đánh dấu bởi các đồn điền cao su và hành chính thuộc địa tại Tây Nguyên.",
+        "detail": "Khu vực tỉnh Đắk Nông được đánh dấu bởi các đồn điền cao su và hành chính thuộc địa tại Tây Nguyên."
+      },
+      {
+        "year": "1945",
+        "title": "Phong trào cách mạng lan tới Đắk Nông",
+        "text": "Nhân dân Đắk Nông tiếp ứng Cách mạng Tháng Tám, tham gia giải phóng Tây Nguyên.",
+        "detail": "Nhân dân Đắk Nông tiếp ứng Cách mạng Tháng Tám, tham gia giải phóng Tây Nguyên."
+      },
+      {
+        "year": "2004",
+        "title": "Đắk Nông chính thức trở thành tỉnh",
+        "text": "Tỉnh Đắk Nông được tách ra từ tỉnh Đắk Lắk, bắt đầu quản lý hành chính độc lập tại Tây Nguyên.",
+        "detail": "Tỉnh Đắk Nông được tách ra từ tỉnh Đắk Lắk, bắt đầu quản lý hành chính độc lập tại Tây Nguyên."
+      }
+    ],
+    "description": "Tỉnh Đắk Nông thuộc vùng Tây Nguyên, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Điện Biên": {
+    "title": "Vùng Điện Biên",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Điện Biên"
+    ],
+    "events": [
+      {
+        "year": "1954",
+        "title": "Chiến thắng Điện Biên Phủ",
+        "text": "Trận Điện Biên Phủ lừng danh kết thúc ách thống trị của thực dân Pháp, mở ra thời kỳ độc lập cho Việt Nam.",
+        "detail": "Trận Điện Biên Phủ lừng danh kết thúc ách thống trị của thực dân Pháp, mở ra thời kỳ độc lập cho Việt Nam."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân vùng biên Tây Bắc tham gia giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân vùng biên Tây Bắc tham gia giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1975",
+        "title": "Điện Biên phát triển sau chiến tranh",
+        "text": "Sau giải phóng, Điện Biên chuyển sang giai đoạn xây dựng kinh tế - xã hội qua giao thông và nông nghiệp.",
+        "detail": "Sau giải phóng, Điện Biên chuyển sang giai đoạn xây dựng kinh tế - xã hội qua giao thông và nông nghiệp."
+      }
+    ],
+    "description": "Tỉnh Điện Biên thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Đồng Nai": {
+    "title": "Vùng Đồng Nai",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Đồng Nai"
+    ],
+    "events": [
+      {
+        "year": "1698",
+        "title": "Đồng Nai trở thành phần của miền đất Gia Định",
+        "text": "Vùng Đồng Nai hình thành là trung tâm kinh tế, hành chính dưới triều Nguyễn và sau đó trở thành vùng chiến lược Nam Bộ.",
+        "detail": "Vùng Đồng Nai hình thành là trung tâm kinh tế, hành chính dưới triều Nguyễn và sau đó trở thành vùng chiến lược Nam Bộ."
+      },
+      {
+        "year": "1861",
+        "title": "Pháp khai thác Đồng Nai",
+        "text": "Thực dân Pháp mở rộng vào miền Đông Nam Bộ, đưa Đồng Nai vào hệ thống hành chính và phát triển sản xuất cao su.",
+        "detail": "Thực dân Pháp mở rộng vào miền Đông Nam Bộ, đưa Đồng Nai vào hệ thống hành chính và phát triển sản xuất cao su."
+      },
+      {
+        "year": "1976",
+        "title": "Đồng Nai được tái lập tỉnh",
+        "text": "Tỉnh Đồng Nai chính thức được thành lập từ vùng đất Long Khánh, đánh dấu bước phát triển mới của vùng công nghiệp phía Nam.",
+        "detail": "Tỉnh Đồng Nai chính thức được thành lập từ vùng đất Long Khánh, đánh dấu bước phát triển mới của vùng công nghiệp phía Nam."
+      }
+    ],
+    "description": "Tỉnh Đồng Nai thuộc vùng Đông Nam Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Đồng Tháp": {
+    "title": "Vùng Đồng Tháp",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Đồng Tháp"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Đồng Tháp dưới sự quản lý của Pháp",
+        "text": "Thực dân Pháp thiết lập cơ sở hành chính và hệ thống giao thông ở vùng Đồng Tháp, đưa vùng nước lên quản lý.",
+        "detail": "Thực dân Pháp thiết lập cơ sở hành chính và hệ thống giao thông ở vùng Đồng Tháp, đưa vùng nước lên quản lý."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Đồng Tháp đồng loạt giành chính quyền.",
+        "detail": "Nhân dân Đồng Tháp đồng loạt giành chính quyền."
+      },
+      {
+        "year": "1976",
+        "title": "Đồng Tháp được tái lập tỉnh",
+        "text": "Tỉnh Đồng Tháp chính thức thành lập lại sau khi miền Nam giải phóng, mở đầu công cuộc xây dựng vùng đất Đồng bằng sông Cửu Long.",
+        "detail": "Tỉnh Đồng Tháp chính thức thành lập lại sau khi miền Nam giải phóng, mở đầu công cuộc xây dựng vùng đất Đồng bằng sông Cửu Long."
+      }
+    ],
+    "description": "Tỉnh Đồng Tháp thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Gia Lai": {
+    "title": "Vùng Gia Lai",
+    "region": "Tây Nguyên",
+    "provinces": [
+      "Gia Lai"
+    ],
+    "events": [
+      {
+        "year": "1900",
+        "title": "Gia Lai được Pháp tổ chức hành chính",
+        "text": "Vùng đất cao nguyên Gia Lai đặt nền móng cho các đồn điền cà phê và làng mạc với cơ cấu hành chính thuộc địa.",
+        "detail": "Vùng đất cao nguyên Gia Lai đặt nền móng cho các đồn điền cà phê và làng mạc với cơ cấu hành chính thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Phong trào cách mạng lan vào Tây Nguyên, nhân dân Gia Lai giành chính quyền.",
+        "detail": "Phong trào cách mạng lan vào Tây Nguyên, nhân dân Gia Lai giành chính quyền."
+      },
+      {
+        "year": "1976",
+        "title": "Gia Lai trở thành tỉnh sau thống nhất",
+        "text": "Tỉnh Gia Lai được tái lập sau ngày giải phóng, bước vào giai đoạn phát triển kinh tế và văn hóa.",
+        "detail": "Tỉnh Gia Lai được tái lập sau ngày giải phóng, bước vào giai đoạn phát triển kinh tế và văn hóa."
+      }
+    ],
+    "description": "Tỉnh Gia Lai thuộc vùng Tây Nguyên, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hà Giang": {
+    "title": "Vùng Hà Giang",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Hà Giang"
+    ],
+    "events": [
+      {
+        "year": "1886",
+        "title": "Hà Giang gia nhập khu hành chính Pháp",
+        "text": "Tỉnh Hà Giang được tổ chức thành đơn vị hành chính biên giới dưới chế độ quản lý của thực dân Pháp.",
+        "detail": "Tỉnh Hà Giang được tổ chức thành đơn vị hành chính biên giới dưới chế độ quản lý của thực dân Pháp."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Người dân vùng cao Hà Giang bước lên giành chính quyền dân chủ nhân dân.",
+        "detail": "Người dân vùng cao Hà Giang bước lên giành chính quyền dân chủ nhân dân."
+      },
+      {
+        "year": "1954",
+        "title": "Hà Giang bước vào thời kỳ tự do",
+        "text": "Sau hiệp định Genève, Hà Giang được giải phóng và bắt đầu xây dựng chính quyền cách mạng.",
+        "detail": "Sau hiệp định Genève, Hà Giang được giải phóng và bắt đầu xây dựng chính quyền cách mạng."
+      }
+    ],
+    "description": "Tỉnh Hà Giang thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hà Nam": {
+    "title": "Vùng Hà Nam",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Hà Nam"
+    ],
+    "events": [
+      {
+        "year": "1901",
+        "title": "Hà Nam được Pháp tổ chức hành chính",
+        "text": "Thực dân Pháp chia vùng đất Trung du và đồng bằng thành các đơn vị hành chính, trong đó có Hà Nam.",
+        "detail": "Thực dân Pháp chia vùng đất Trung du và đồng bằng thành các đơn vị hành chính, trong đó có Hà Nam."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Hà Nam tham gia giành chính quyền, mở ra kỷ nguyên mới cho tỉnh.",
+        "detail": "Nhân dân Hà Nam tham gia giành chính quyền, mở ra kỷ nguyên mới cho tỉnh."
+      },
+      {
+        "year": "1997",
+        "title": "Hà Nam tái lập tỉnh",
+        "text": "Hà Nam chính thức được tái lập sau giai đoạn hợp nhất, đánh dấu sự phát triển mới trong hành chính và kinh tế.",
+        "detail": "Hà Nam chính thức được tái lập sau giai đoạn hợp nhất, đánh dấu sự phát triển mới trong hành chính và kinh tế."
+      }
+    ],
+    "description": "Tỉnh Hà Nam thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hà Tĩnh": {
+    "title": "Vùng Hà Tĩnh",
+    "region": "Bắc Trung Bộ",
+    "provinces": [
+      "Hà Tĩnh"
+    ],
+    "events": [
+      {
+        "year": "1831",
+        "title": "Hà Tĩnh trở thành tỉnh dưới triều Nguyễn",
+        "text": "Vua Minh Mạng cải cách hành chính, tách Hà Tĩnh khỏi Nghệ An thành tỉnh độc lập — đặt nền móng cho phát triển văn hóa và lịch sử địa phương.",
+        "detail": "Năm 1831, vua Minh Mạng thực hiện cuộc cải cách hành chính toàn quốc, chia cả nước thành 31 tỉnh. Hà Tĩnh được tách khỏi Nghệ An, trở thành một đơn vị hành chính độc lập."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Hà Tĩnh giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Hà Tĩnh giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1965",
+        "title": "Hà Tĩnh — hậu phương vững chắc chống Mỹ",
+        "text": "Hà Tĩnh nằm trên tuyến lửa khu IV, bị Mỹ đánh phá ác liệt nhưng vẫn kiên cường chi viện cho tiền tuyến. Ngã ba Đồng Lộc — nơi 10 cô gái thanh niên xung phong hy sinh — là biểu tượng bất tử.",
+        "detail": "Trong chiến tranh chống Mỹ (1965-1975), Hà Tĩnh bị không quân Mỹ đánh phá liên tục nhằm cắt đứt đường chi viện vào Nam. Ngã ba Đồng Lộc (Hà Tĩnh) là biểu tượng hy sinh anh dũng, nơi 10 cô gái thanh niên xung phong hi sinh ngày 24/7/1968."
+      }
+    ],
+    "description": "Tỉnh Hà Tĩnh thuộc vùng Bắc Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hải Dương": {
+    "title": "Vùng Hải Dương",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Hải Dương"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Hải Dương bị Pháp sáp nhập",
+        "text": "Hải Dương trở thành tỉnh thuộc quản lý của Pháp với nhiều di tích được xây dựng theo mô hình thuộc địa.",
+        "detail": "Hải Dương trở thành tỉnh thuộc quản lý của Pháp với nhiều di tích được xây dựng theo mô hình thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Hải Dương giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Hải Dương giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1968",
+        "title": "Hải Dương là căn cứ kháng chiến",
+        "text": "Trong giai đoạn chống Mỹ, Hải Dương là vùng nông thôn cách mạng với nhiều trận đánh lớn.",
+        "detail": "Trong giai đoạn chống Mỹ, Hải Dương là vùng nông thôn cách mạng với nhiều trận đánh lớn."
+      }
+    ],
+    "description": "Tỉnh Hải Dương thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hậu Giang": {
+    "title": "Vùng Hậu Giang",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Hậu Giang"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Hậu Giang thuộc Nam Kỳ thuộc địa",
+        "text": "Thực dân Pháp phát triển hệ thống kênh rạch và các làng nghề muối ở khu vực Hậu Giang.",
+        "detail": "Thực dân Pháp phát triển hệ thống kênh rạch và các làng nghề muối ở khu vực Hậu Giang."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Phong trào giành chính quyền lan khắp miền Tây, trong đó có Hậu Giang.",
+        "detail": "Phong trào giành chính quyền lan khắp miền Tây, trong đó có Hậu Giang."
+      },
+      {
+        "year": "2004",
+        "title": "Hậu Giang chính thức trở thành tỉnh",
+        "text": "Tỉnh Hậu Giang được thành lập sau khi tách khỏi Cần Thơ, khẳng định vị trí hành chính riêng biệt.",
+        "detail": "Tỉnh Hậu Giang được thành lập sau khi tách khỏi Cần Thơ, khẳng định vị trí hành chính riêng biệt."
+      }
+    ],
+    "description": "Tỉnh Hậu Giang thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hòa Bình": {
+    "title": "Vùng Hòa Bình",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Hòa Bình"
+    ],
+    "events": [
+      {
+        "year": "1884",
+        "title": "Hòa Bình trở thành vùng quản lý của Pháp",
+        "text": "Mỏ đồng và các đồn điền ở Hòa Bình được khai thác, khu vực này trở thành vùng biên giới chiến lược.",
+        "detail": "Mỏ đồng và các đồn điền ở Hòa Bình được khai thác, khu vực này trở thành vùng biên giới chiến lược."
+      },
+      {
+        "year": "1952",
+        "title": "Hòa Bình trở thành căn cứ kháng chiến",
+        "text": "Hòa Bình được chọn làm vùng căn cứ cách mạng, nơi tổ chức nhiều chiến dịch đối phó Pháp.",
+        "detail": "Hòa Bình được chọn làm vùng căn cứ cách mạng, nơi tổ chức nhiều chiến dịch đối phó Pháp."
+      },
+      {
+        "year": "1991",
+        "title": "Hòa Bình tái lập tỉnh",
+        "text": "Tỉnh Hà Sơn Bình được chia tách; Hòa Bình tái lập tỉnh và khởi đầu phát triển kinh tế, thủy điện và bảo tồn văn hóa các dân tộc thiểu số.",
+        "detail": "Năm 1975, Hòa Bình hợp nhất với Hà Tây thành tỉnh Hà Sơn Bình. Năm 1991, tỉnh được chia tách lại. Hòa Bình nổi tiếng với thủy điện Hòa Bình trên sông Đà — nhà máy thủy điện lớn nhất Đông Nam Á thời xây dựng (1979-1994), đóng góp lớn vào điện lưới quốc gia."
+      }
+    ],
+    "description": "Tỉnh Hòa Bình thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Hưng Yên": {
+    "title": "Vùng Hưng Yên",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Hưng Yên"
+    ],
+    "events": [
+      {
+        "year": "1890",
+        "title": "Hưng Yên bị Pháp sáp nhập",
+        "text": "Khu vực đồng bằng Hưng Yên được tổ chức lại hành chính dưới quyền Pháp, trở thành trung tâm thương mại.",
+        "detail": "Khu vực đồng bằng Hưng Yên được tổ chức lại hành chính dưới quyền Pháp, trở thành trung tâm thương mại."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Hưng Yên giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Hưng Yên giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1997",
+        "title": "Hưng Yên tái lập tỉnh",
+        "text": "Tỉnh Hưng Yên được tái lập từ tỉnh Hải Hưng, mở ra giai đoạn mới cho phát triển kinh tế vùng đồng bằng.",
+        "detail": "Tỉnh Hưng Yên được tái lập từ tỉnh Hải Hưng, mở ra giai đoạn mới cho phát triển kinh tế vùng đồng bằng."
+      }
+    ],
+    "description": "Tỉnh Hưng Yên thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Khánh Hòa": {
+    "title": "Vùng Khánh Hòa",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Khánh Hòa"
+    ],
+    "events": [
+      {
+        "year": "1885",
+        "title": "Khánh Hòa dưới chế độ bảo hộ Pháp",
+        "text": "Sau Hiệp ước Patenôtre 1884, Khánh Hòa cùng toàn bộ Trung Kỳ đặt dưới quyền bảo hộ Pháp. Người Pháp phát triển Nha Trang và xây dựng Viện Pasteur (1895) — trung tâm y học lớn của Đông Dương.",
+        "detail": "Năm 1884, Hiệp ước Patenôtre đặt Trung Kỳ dưới chế độ bảo hộ Pháp. Người Pháp xây dựng Viện Pasteur Nha Trang (1895) — một trong những trung tâm y học quan trọng nhất Đông Dương, nơi nhà bác học Alexandre Yersin sinh sống và làm việc nhiều năm."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Khánh Hòa giành chính quyền, chuẩn bị cho thời kỳ kháng chiến.",
+        "detail": "Nhân dân Khánh Hòa giành chính quyền, chuẩn bị cho thời kỳ kháng chiến."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Khánh Hòa",
+        "text": "Sau 1975, Khánh Hòa chính thức được giải phóng, bước vào thời kỳ xây dựng phát triển du lịch biển.",
+        "detail": "Sau 1975, Khánh Hòa chính thức được giải phóng, bước vào thời kỳ xây dựng phát triển du lịch biển."
+      }
+    ],
+    "description": "Tỉnh Khánh Hòa thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Kiên Giang": {
+    "title": "Vùng Kiên Giang",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Kiên Giang"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Kiên Giang trở thành tỉnh Nam Kỳ",
+        "text": "Pháp tổ chức vùng đất Kiên Giang làm trung tâm quản lý phía Tây Nam Bộ, phát triển nông nghiệp và thủy sản.",
+        "detail": "Pháp tổ chức vùng đất Kiên Giang làm trung tâm quản lý phía Tây Nam Bộ, phát triển nông nghiệp và thủy sản."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Kiên Giang giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Kiên Giang giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1997",
+        "title": "Kiên Giang củng cố địa giới hành chính",
+        "text": "Tỉnh Kiên Giang hoàn thiện ranh giới hành chính và phát triển du lịch biển đảo.",
+        "detail": "Tỉnh Kiên Giang hoàn thiện ranh giới hành chính và phát triển du lịch biển đảo."
+      }
+    ],
+    "description": "Tỉnh Kiên Giang thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Kon Tum": {
+    "title": "Vùng Kon Tum",
+    "region": "Tây Nguyên",
+    "provinces": [
+      "Kon Tum"
+    ],
+    "events": [
+      {
+        "year": "1893",
+        "title": "Kon Tum thuộc quyền cai quản của Pháp",
+        "text": "Khu vực Kon Tum bị Pháp đưa vào hệ thống cai trị thuộc địa, hình thành cơ sở hành chính và đồn điền.",
+        "detail": "Khu vực Kon Tum bị Pháp đưa vào hệ thống cai trị thuộc địa, hình thành cơ sở hành chính và đồn điền."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Đồng bào các dân tộc Kon Tum đứng lên giành chính quyền.",
+        "detail": "Đồng bào các dân tộc Kon Tum đứng lên giành chính quyền."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Kon Tum",
+        "text": "Kon Tum được giải phóng vào cuối cuộc kháng chiến chống Mỹ, mở ra giai đoạn xây dựng hậu chiến tại Tây Nguyên.",
+        "detail": "Kon Tum được giải phóng vào cuối cuộc kháng chiến chống Mỹ, mở ra giai đoạn xây dựng hậu chiến tại Tây Nguyên."
+      }
+    ],
+    "description": "Tỉnh Kon Tum thuộc vùng Tây Nguyên, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Lai Châu": {
+    "title": "Vùng Lai Châu",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Lai Châu"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Lai Châu được Pháp cai quản",
+        "text": "Thực dân Pháp đặt Lai Châu vào hệ thống các tỉnh biên giới Tây Bắc, xây dựng tuyến đường sắt và trạm đồn.",
+        "detail": "Thực dân Pháp đặt Lai Châu vào hệ thống các tỉnh biên giới Tây Bắc, xây dựng tuyến đường sắt và trạm đồn."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Đồng bào dân tộc thiểu số Lai Châu tham gia giành chính quyền.",
+        "detail": "Đồng bào dân tộc thiểu số Lai Châu tham gia giành chính quyền."
+      },
+      {
+        "year": "2004",
+        "title": "Lai Châu tái lập tỉnh mới",
+        "text": "Tỉnh Lai Châu cũ được chia thành Lai Châu mới và Điện Biên; tỉnh lỵ Lai Châu mới đặt tại thị xã Tam Đường.",
+        "detail": "Năm 2004, tỉnh Lai Châu cũ chia thành hai đơn vị: tỉnh Lai Châu mới (tỉnh lỵ tại thị xã Lai Châu) và tỉnh Điện Biên (tỉnh lỵ tại thành phố Điện Biên Phủ). Cuộc tách tỉnh nhằm tạo điều kiện phát triển kinh tế-xã hội vùng Tây Bắc."
+      }
+    ],
+    "description": "Tỉnh Lai Châu thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Lâm Đồng": {
+    "title": "Vùng Lâm Đồng",
+    "region": "Tây Nguyên",
+    "provinces": [
+      "Lâm Đồng"
+    ],
+    "events": [
+      {
+        "year": "1893",
+        "title": "Đà Lạt và Lâm Đồng được Pháp khai phá",
+        "text": "Thực dân Pháp xây dựng Đà Lạt thành khu nghỉ dưỡng và đặt nền móng hành chính cho tỉnh Lâm Đồng.",
+        "detail": "Thực dân Pháp xây dựng Đà Lạt thành khu nghỉ dưỡng và đặt nền móng hành chính cho tỉnh Lâm Đồng."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Lâm Đồng tham gia giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Lâm Đồng tham gia giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1976",
+        "title": "Lâm Đồng thành lập tỉnh mới",
+        "text": "Sau thống nhất, tỉnh Lâm Đồng được củng cố hành chính và phát triển sản xuất cà phê, du lịch.",
+        "detail": "Sau thống nhất, tỉnh Lâm Đồng được củng cố hành chính và phát triển sản xuất cà phê, du lịch."
+      }
+    ],
+    "description": "Tỉnh Lâm Đồng thuộc vùng Tây Nguyên, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Lạng Sơn": {
+    "title": "Vùng Lạng Sơn",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Lạng Sơn"
+    ],
+    "events": [
+      {
+        "year": "1885",
+        "title": "Lạng Sơn bị Pháp chiếm đóng",
+        "text": "Vùng biên giới Lạng Sơn trở thành điểm nóng chiến lược trong cuộc xâm lược của thực dân Pháp.",
+        "detail": "Vùng biên giới Lạng Sơn trở thành điểm nóng chiến lược trong cuộc xâm lược của thực dân Pháp."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Lạng Sơn giành chính quyền, bước quan trọng cho vùng biên giới.",
+        "detail": "Nhân dân Lạng Sơn giành chính quyền, bước quan trọng cho vùng biên giới."
+      },
+      {
+        "year": "1979",
+        "title": "Lạng Sơn là chiến trường biên giới",
+        "text": "Trong cuộc chiến tranh biên giới 1979, Lạng Sơn là một trong những điểm giao tranh quyết liệt.",
+        "detail": "Trong cuộc chiến tranh biên giới 1979, Lạng Sơn là một trong những điểm giao tranh quyết liệt."
+      }
+    ],
+    "description": "Tỉnh Lạng Sơn thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Lào Cai": {
+    "title": "Vùng Lào Cai",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Lào Cai"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Lào Cai bị Pháp sáp nhập",
+        "text": "Thực dân Pháp khai thác vùng biên và tổ chức cửa khẩu Lào Cai để kiểm soát giao thương với Trung Quốc.",
+        "detail": "Thực dân Pháp khai thác vùng biên và tổ chức cửa khẩu Lào Cai để kiểm soát giao thương với Trung Quốc."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Lào Cai giành chính quyền, chuẩn bị kháng chiến vùng biên cương.",
+        "detail": "Nhân dân Lào Cai giành chính quyền, chuẩn bị kháng chiến vùng biên cương."
+      },
+      {
+        "year": "1991",
+        "title": "Lào Cai tái lập tỉnh",
+        "text": "Tỉnh Hoàng Liên Sơn (gồm Lào Cai cũ và Yên Bái) được chia tách; Lào Cai chính thức tái lập, bắt đầu phát triển thương mại biên giới và du lịch Sa Pa.",
+        "detail": "Năm 1975-1976, Lào Cai và Yên Bái hợp nhất thành tỉnh Hoàng Liên Sơn. Năm 1991, tỉnh được tách lại thành Lào Cai và Yên Bái. Lào Cai phát triển mạnh nhờ cửa khẩu Lào Cai — Hà Khẩu và du lịch Sa Pa với đỉnh Fansipan — nóc nhà Đông Dương."
+      }
+    ],
+    "description": "Tỉnh Lào Cai thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Long An": {
+    "title": "Vùng Long An",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Long An"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Long An trở thành tỉnh Nam Kỳ thuộc Pháp",
+        "text": "Vùng đất Long An được tổ chức hành chính theo mô hình thuộc địa và phát triển nông nghiệp lúa gạo.",
+        "detail": "Vùng đất Long An được tổ chức hành chính theo mô hình thuộc địa và phát triển nông nghiệp lúa gạo."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Long An giành chính quyền, bước ngoặt lịch sử Nam Bộ.",
+        "detail": "Nhân dân Long An giành chính quyền, bước ngoặt lịch sử Nam Bộ."
+      },
+      {
+        "year": "1976",
+        "title": "Long An được tái lập tỉnh",
+        "text": "Sau giải phóng miền Nam, tỉnh Long An được tổ chức lại để phát triển kinh tế và nông nghiệp.",
+        "detail": "Sau giải phóng miền Nam, tỉnh Long An được tổ chức lại để phát triển kinh tế và nông nghiệp."
+      }
+    ],
+    "description": "Tỉnh Long An thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Nam Định": {
+    "title": "Vùng Nam Định",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Nam Định"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Nam Định trở thành tỉnh thuộc Pháp",
+        "text": "Thực dân Pháp phát triển hạ tầng và thương nghiệp tại Nam Định, đưa vùng đồng bằng vào quản lý trực tiếp.",
+        "detail": "Thực dân Pháp phát triển hạ tầng và thương nghiệp tại Nam Định, đưa vùng đồng bằng vào quản lý trực tiếp."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Nam Định giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Nam Định giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1976",
+        "title": "Nam Định được tái lập tỉnh",
+        "text": "Tỉnh Nam Định được tái lập và đầu tư phát triển công nghiệp nhẹ cùng nghề truyền thống.",
+        "detail": "Tỉnh Nam Định được tái lập và đầu tư phát triển công nghiệp nhẹ cùng nghề truyền thống."
+      }
+    ],
+    "description": "Tỉnh Nam Định thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Nghệ An": {
+    "title": "Vùng Nghệ An",
+    "region": "Bắc Trung Bộ",
+    "provinces": [
+      "Nghệ An"
+    ],
+    "events": [
+      {
+        "year": "1890",
+        "title": "Nghệ An — quê hương Chủ tịch Hồ Chí Minh",
+        "text": "Ngày 19/5/1890, Nguyễn Sinh Cung (Hồ Chí Minh) sinh tại làng Kim Liên, huyện Nam Đàn, Nghệ An — đặt dấu ấn lịch sử vĩnh cửu của tỉnh vào lịch sử dân tộc.",
+        "detail": "Ngày 19/5/1890, Nguyễn Sinh Cung sinh ra tại làng Kim Liên, huyện Nam Đàn, Nghệ An trong gia đình có truyền thống hiếu học và yêu nước. Người sau này trở thành Chủ tịch Hồ Chí Minh — lãnh tụ cách mạng và Chủ tịch nước đầu tiên của nước Việt Nam Dân chủ Cộng hòa."
+      },
+      {
+        "year": "1930",
+        "title": "Phong trào Xô Viết Nghệ Tĩnh",
+        "text": "Nghệ An là tâm chấn của phong trào Xô Viết Nghệ Tĩnh, đánh dấu thời kỳ đấu tranh sâu rộng của nông dân và công nhân.",
+        "detail": "Nghệ An là tâm chấn của phong trào Xô Viết Nghệ Tĩnh, đánh dấu thời kỳ đấu tranh sâu rộng của nông dân và công nhân."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Nghệ An giành chính quyền, góp phần vào thắng lợi toàn quốc.",
+        "detail": "Nhân dân Nghệ An giành chính quyền, góp phần vào thắng lợi toàn quốc."
+      }
+    ],
+    "description": "Tỉnh Nghệ An thuộc vùng Bắc Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Ninh Bình": {
+    "title": "Vùng Ninh Bình",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Ninh Bình"
+    ],
+    "events": [
+      {
+        "year": "968",
+        "title": "Ninh Bình trở thành trung tâm đất nước Đại Cồ Việt",
+        "text": "Kinh đô Hoa Lư thuộc địa phận Ninh Bình, là nơi mở đầu triều đại Nhà Đinh và Nhà Tiền Lê.",
+        "detail": "Kinh đô Hoa Lư thuộc địa phận Ninh Bình, là nơi mở đầu triều đại Nhà Đinh và Nhà Tiền Lê."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Ninh Bình giành chính quyền, chấm dứt ách đô hộ.",
+        "detail": "Nhân dân Ninh Bình giành chính quyền, chấm dứt ách đô hộ."
+      },
+      {
+        "year": "2014",
+        "title": "Tràng An của Ninh Bình được UNESCO công nhận",
+        "text": "Khu quần thể danh thắng Tràng An được công nhận di sản thế giới, mở rộng giá trị văn hóa và du lịch.",
+        "detail": "Khu quần thể danh thắng Tràng An được công nhận di sản thế giới, mở rộng giá trị văn hóa và du lịch."
+      }
+    ],
+    "description": "Tỉnh Ninh Bình thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Ninh Thuận": {
+    "title": "Vùng Ninh Thuận",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Ninh Thuận"
+    ],
+    "events": [
+      {
+        "year": "1901",
+        "title": "Ninh Thuận được Pháp tổ chức hành chính",
+        "text": "Thực dân Pháp đưa vùng đất ven biển Ninh Thuận vào hệ thống quản lý thuộc địa và phát triển đường bộ.",
+        "detail": "Thực dân Pháp đưa vùng đất ven biển Ninh Thuận vào hệ thống quản lý thuộc địa và phát triển đường bộ."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Ninh Thuận giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Ninh Thuận giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1991",
+        "title": "Ninh Thuận được tái lập tỉnh",
+        "text": "Tỉnh Ninh Thuận được tái lập, đặt nền móng cho phát triển nông nghiệp, du lịch và văn hóa địa phương.",
+        "detail": "Tỉnh Ninh Thuận được tái lập, đặt nền móng cho phát triển nông nghiệp, du lịch và văn hóa địa phương."
+      }
+    ],
+    "description": "Tỉnh Ninh Thuận thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Phú Thọ": {
+    "title": "Vùng Phú Thọ",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Phú Thọ"
+    ],
+    "events": [
+      {
+        "year": "2011",
+        "title": "Hát Xoan Phú Thọ được UNESCO công nhận",
+        "text": "Hát Xoan — dân ca nghi lễ độc đáo của Phú Thọ — được UNESCO công nhận Di sản văn hóa phi vật thể, khẳng định bề dày văn hóa vùng đất Tổ.",
+        "detail": "Năm 2011, UNESCO công nhận Hát Xoan Phú Thọ là Di sản văn hóa phi vật thể; đến 2017 được công nhận là Di sản đại diện nhân loại. Cùng với Tín ngưỡng thờ cúng Hùng Vương (2012), Phú Thọ là tỉnh có hai di sản văn hóa phi vật thể thế giới."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Phú Thọ tiếp ứng Việt Minh, giành chính quyền.",
+        "detail": "Nhân dân Phú Thọ tiếp ứng Việt Minh, giành chính quyền."
+      },
+      {
+        "year": "1997",
+        "title": "Tái lập tỉnh Phú Thọ",
+        "text": "Tỉnh Phú Thọ được trở lại với địa giới mới, phát triển du lịch tâm linh và công nghiệp nhẹ.",
+        "detail": "Tỉnh Phú Thọ được trở lại với địa giới mới, phát triển du lịch tâm linh và công nghiệp nhẹ."
+      }
+    ],
+    "description": "Tỉnh Phú Thọ thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Phú Yên": {
+    "title": "Vùng Phú Yên",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Phú Yên"
+    ],
+    "events": [
+      {
+        "year": "1858",
+        "title": "Pháp bắt đầu xâm lược Phú Yên",
+        "text": "Chiến dịch chiếm đóng ven biển Nam Trung Bộ đưa Phú Yên vào vòng quản lý thuộc địa.",
+        "detail": "Chiến dịch chiếm đóng ven biển Nam Trung Bộ đưa Phú Yên vào vòng quản lý thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Phú Yên giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Phú Yên giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Phú Yên",
+        "text": "Phú Yên được giải phóng hoàn toàn, mở đầu thời kỳ xây dựng lại và phục hồi kinh tế.",
+        "detail": "Phú Yên được giải phóng hoàn toàn, mở đầu thời kỳ xây dựng lại và phục hồi kinh tế."
+      }
+    ],
+    "description": "Tỉnh Phú Yên thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Quảng Bình": {
+    "title": "Vùng Quảng Bình",
+    "region": "Bắc Trung Bộ",
+    "provinces": [
+      "Quảng Bình"
+    ],
+    "events": [
+      {
+        "year": "1639",
+        "title": "Quảng Bình thuộc châu Quảng Bình của chúa Nguyễn",
+        "text": "Vùng đất này trở thành tiền đồn phía Bắc của chúa Nguyễn, giữ vị trí chiến lược quan trọng.",
+        "detail": "Vùng đất này trở thành tiền đồn phía Bắc của chúa Nguyễn, giữ vị trí chiến lược quan trọng."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Quảng Bình giành chính quyền, chuẩn bị cho kháng chiến.",
+        "detail": "Nhân dân Quảng Bình giành chính quyền, chuẩn bị cho kháng chiến."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Quảng Bình",
+        "text": "Sau ngày 30/4/1975, Quảng Bình hoàn toàn giải phóng và bắt đầu chương trình phục hồi sau chiến tranh.",
+        "detail": "Sau ngày 30/4/1975, Quảng Bình hoàn toàn giải phóng và bắt đầu chương trình phục hồi sau chiến tranh."
+      }
+    ],
+    "description": "Tỉnh Quảng Bình thuộc vùng Bắc Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Quảng Nam": {
+    "title": "Vùng Quảng Nam",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Quảng Nam"
+    ],
+    "events": [
+      {
+        "year": "1858",
+        "title": "Pháp chiếm Quảng Nam",
+        "text": "Quảng Nam trở thành một trong những trung tâm đầu tiên của thuộc địa Pháp ở Nam Trung Bộ.",
+        "detail": "Quảng Nam trở thành một trong những trung tâm đầu tiên của thuộc địa Pháp ở Nam Trung Bộ."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Quảng Nam giành chính quyền.",
+        "detail": "Nhân dân Quảng Nam giành chính quyền."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Quảng Nam",
+        "text": "Quảng Nam được giải phóng, chuẩn bị cho giai đoạn xây dựng lại và phát triển du lịch văn hóa.",
+        "detail": "Quảng Nam được giải phóng, chuẩn bị cho giai đoạn xây dựng lại và phát triển du lịch văn hóa."
+      }
+    ],
+    "description": "Tỉnh Quảng Nam thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Quảng Ngãi": {
+    "title": "Vùng Quảng Ngãi",
+    "region": "Duyên hải Nam Trung Bộ",
+    "provinces": [
+      "Quảng Ngãi"
+    ],
+    "events": [
+      {
+        "year": "1889",
+        "title": "Quảng Ngãi bị Pháp chiếm đóng",
+        "text": "Vùng đất Quảng Ngãi trở thành địa bàn thuộc địa cùng với việc xây dựng văn phòng hành chính và đồn trại.",
+        "detail": "Vùng đất Quảng Ngãi trở thành địa bàn thuộc địa cùng với việc xây dựng văn phòng hành chính và đồn trại."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Quảng Ngãi giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Quảng Ngãi giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Quảng Ngãi",
+        "text": "Sau ngày 30 tháng 4, Quảng Ngãi được giải phóng hoàn toàn và bước vào công cuộc tái thiết.",
+        "detail": "Sau ngày 30 tháng 4, Quảng Ngãi được giải phóng hoàn toàn và bước vào công cuộc tái thiết."
+      }
+    ],
+    "description": "Tỉnh Quảng Ngãi thuộc vùng Duyên hải Nam Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Quảng Ninh": {
+    "title": "Vùng Quảng Ninh",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Quảng Ninh"
+    ],
+    "events": [
+      {
+        "year": "1883",
+        "title": "Quảng Ninh trở thành tỉnh Pháp",
+        "text": "Khu vực mỏ than và cửa biển Hạ Long được đưa vào hệ thống quản lý của thực dân Pháp.",
+        "detail": "Khu vực mỏ than và cửa biển Hạ Long được đưa vào hệ thống quản lý của thực dân Pháp."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Quảng Ninh giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Quảng Ninh giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1994",
+        "title": "Vịnh Hạ Long được UNESCO công nhận",
+        "text": "Quảng Ninh nổi tiếng toàn cầu khi Vịnh Hạ Long được UNESCO ghi danh là di sản thiên nhiên thế giới.",
+        "detail": "Quảng Ninh nổi tiếng toàn cầu khi Vịnh Hạ Long được UNESCO ghi danh là di sản thiên nhiên thế giới."
+      }
+    ],
+    "description": "Tỉnh Quảng Ninh thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Quảng Trị": {
+    "title": "Vùng Quảng Trị",
+    "region": "Bắc Trung Bộ",
+    "provinces": [
+      "Quảng Trị"
+    ],
+    "events": [
+      {
+        "year": "1306",
+        "title": "Quảng Trị là vùng đất của Đại Việt",
+        "text": "Vùng đất Quảng Trị được quan tâm xây dựng thành tiền đồn phía nam của Đại Việt trong thời kỳ phong kiến.",
+        "detail": "Vùng đất Quảng Trị được quan tâm xây dựng thành tiền đồn phía nam của Đại Việt trong thời kỳ phong kiến."
+      },
+      {
+        "year": "1972",
+        "title": "Quảng Trị là chiến trường ác liệt",
+        "text": "Tỉnh Quảng Trị trải qua chiến dịch Mùa Hè Đỏ Lửa, là nơi hy sinh của nhiều chiến sĩ trong chiến tranh chống Mỹ.",
+        "detail": "Tỉnh Quảng Trị trải qua chiến dịch Mùa Hè Đỏ Lửa, là nơi hy sinh của nhiều chiến sĩ trong chiến tranh chống Mỹ."
+      },
+      {
+        "year": "1975",
+        "title": "Quảng Trị được giải phóng",
+        "text": "Ngày 19/3/1975, Quảng Trị hoàn toàn giải phóng, mở đầu chuỗi thắng lợi dẫn đến thống nhất đất nước 30/4/1975.",
+        "detail": "Quảng Trị là nơi diễn ra những trận đánh ác liệt nhất trong chiến tranh. Cầu Hiền Lương — ranh giới tạm thời tại vĩ tuyến 17 — chia đôi đất nước suốt 20 năm. Ngày 19/3/1975, tỉnh được giải phóng trước cả Sài Gòn, mở đầu chuỗi thắng lợi dẫn đến thống nhất đất nước."
+      }
+    ],
+    "description": "Tỉnh Quảng Trị thuộc vùng Bắc Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Sóc Trăng": {
+    "title": "Vùng Sóc Trăng",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Sóc Trăng"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Sóc Trăng về tay Pháp",
+        "text": "Thực dân Pháp đặt Sóc Trăng vào hệ thống hành chính Nam Kỳ, phát triển nông nghiệp và thương mại sông nước.",
+        "detail": "Thực dân Pháp đặt Sóc Trăng vào hệ thống hành chính Nam Kỳ, phát triển nông nghiệp và thương mại sông nước."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Sóc Trăng giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Sóc Trăng giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1992",
+        "title": "Sóc Trăng tái lập tỉnh",
+        "text": "Tỉnh Sóc Trăng tái lập sau khi tách khỏi tỉnh Hậu Giang, bắt đầu phát triển nông nghiệp, văn hóa Khmer và du lịch sông nước.",
+        "detail": "Năm 1976, Sóc Trăng bị hợp nhất vào tỉnh Hậu Giang. Năm 1992, tỉnh Sóc Trăng được tái lập. Sóc Trăng nổi tiếng với cộng đồng người Khmer đông nhất Nam Bộ, các chùa Khmer độc đáo và lễ hội đua ghe ngo — tỉnh tiêu biểu về giao thoa văn hóa Kinh-Khmer-Hoa."
+      }
+    ],
+    "description": "Tỉnh Sóc Trăng thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Sơn La": {
+    "title": "Vùng Sơn La",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Sơn La"
+    ],
+    "events": [
+      {
+        "year": "1902",
+        "title": "Sơn La được Pháp cai quản",
+        "text": "Thực dân Pháp xây dựng đồn điền và trại cai trị ở Sơn La, đưa vùng núi Tây Bắc vào mạng lưới kiểm soát.",
+        "detail": "Thực dân Pháp xây dựng đồn điền và trại cai trị ở Sơn La, đưa vùng núi Tây Bắc vào mạng lưới kiểm soát."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Đồng bào các dân tộc Sơn La - Tây Bắc giành chính quyền.",
+        "detail": "Đồng bào các dân tộc Sơn La - Tây Bắc giành chính quyền."
+      },
+      {
+        "year": "1975",
+        "title": "Sơn La giải phóng",
+        "text": "Sau cuộc kháng chiến chống Mỹ, Sơn La được giải phóng và trở thành tỉnh mới của Việt Nam thống nhất.",
+        "detail": "Sau cuộc kháng chiến chống Mỹ, Sơn La được giải phóng và trở thành tỉnh mới của Việt Nam thống nhất."
+      }
+    ],
+    "description": "Tỉnh Sơn La thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Tây Ninh": {
+    "title": "Vùng Tây Ninh",
+    "region": "Đông Nam Bộ",
+    "provinces": [
+      "Tây Ninh"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Tây Ninh trở thành vùng thuộc địa của Pháp",
+        "text": "Pháp thiết lập các đồn điền và cơ quan hành chính tại Tây Ninh, là điểm nóng chiến lược ở miền Đông Nam Bộ.",
+        "detail": "Pháp thiết lập các đồn điền và cơ quan hành chính tại Tây Ninh, là điểm nóng chiến lược ở miền Đông Nam Bộ."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Tây Ninh giành chính quyền, mở đầu kháng chiến.",
+        "detail": "Nhân dân Tây Ninh giành chính quyền, mở đầu kháng chiến."
+      },
+      {
+        "year": "1975",
+        "title": "Giải phóng Tây Ninh",
+        "text": "Tây Ninh được giải phóng vào cuối cuộc kháng chiến, bước vào thời kỳ xây dựng lại sau chiến tranh.",
+        "detail": "Tây Ninh được giải phóng vào cuối cuộc kháng chiến, bước vào thời kỳ xây dựng lại sau chiến tranh."
+      }
+    ],
+    "description": "Tỉnh Tây Ninh thuộc vùng Đông Nam Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Thái Bình": {
+    "title": "Vùng Thái Bình",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Thái Bình"
+    ],
+    "events": [
+      {
+        "year": "1888",
+        "title": "Thái Bình bị Pháp sáp nhập",
+        "text": "Thực dân Pháp đưa Thái Bình vào hệ thống tỉnh thuộc địa, phát triển kinh tế nông nghiệp và đường sắt.",
+        "detail": "Thực dân Pháp đưa Thái Bình vào hệ thống tỉnh thuộc địa, phát triển kinh tế nông nghiệp và đường sắt."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Thái Bình tham gia giành chính quyền, khởi động phong trào cách mạng ở đồng bằng Bắc Bộ.",
+        "detail": "Nhân dân Thái Bình tham gia giành chính quyền, khởi động phong trào cách mạng ở đồng bằng Bắc Bộ."
+      },
+      {
+        "year": "1997",
+        "title": "Thái Bình tái lập tỉnh",
+        "text": "Tỉnh Thái Bình tái lập sau khi tách khỏi tỉnh Thái Hưng, bước vào giai đoạn phát triển nông nghiệp lúa gạo và làng nghề truyền thống.",
+        "detail": "Năm 1997, Thái Bình tách khỏi tỉnh Thái Hưng (hợp nhất từ 1968). Tỉnh nổi tiếng là vựa lúa miền Bắc với truyền thống thâm canh cao sản, đồng thời bảo tồn nhiều làng nghề như dệt chiếu, thêu ren và chạm bạc."
+      }
+    ],
+    "description": "Tỉnh Thái Bình thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Thái Nguyên": {
+    "title": "Vùng Thái Nguyên",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Thái Nguyên"
+    ],
+    "events": [
+      {
+        "year": "1891",
+        "title": "Thái Nguyên được Pháp đưa vào hệ thống hành chính",
+        "text": "Pháp xây dựng đường sắt và khai thác khoáng sản ở Thái Nguyên, biến nơi đây thành trung tâm công nghiệp nhẹ.",
+        "detail": "Pháp xây dựng đường sắt và khai thác khoáng sản ở Thái Nguyên, biến nơi đây thành trung tâm công nghiệp nhẹ."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Thái Nguyên giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Thái Nguyên giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1959",
+        "title": "Thái Nguyên trở thành trung tâm công nghiệp",
+        "text": "Năm 1959, tỉnh trở thành trung tâm công nghiệp quan trọng của vùng trung du miền núi phía Bắc.",
+        "detail": "Năm 1959, tỉnh trở thành trung tâm công nghiệp quan trọng của vùng trung du miền núi phía Bắc."
+      }
+    ],
+    "description": "Tỉnh Thái Nguyên thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Thanh Hóa": {
+    "title": "Vùng Thanh Hóa",
+    "region": "Bắc Trung Bộ",
+    "provinces": [
+      "Thanh Hóa"
+    ],
+    "events": [
+      {
+        "year": "1418",
+        "title": "Thanh Hóa — khởi nguồn khởi nghĩa Lam Sơn",
+        "text": "Lê Lợi phát động khởi nghĩa Lam Sơn tại núi rừng Thanh Hóa, mở đầu 10 năm kháng chiến đánh đuổi quân Minh, giành lại độc lập cho Đại Việt.",
+        "detail": "Năm 1418, Lê Lợi dựng cờ khởi nghĩa tại Lam Sơn (nay thuộc huyện Thọ Xuân, Thanh Hóa). Sau 10 năm chiến đấu, năm 1428 Lê Lợi lên ngôi, lập triều Lê sơ. Thanh Hóa trở thành đất phát tích của nhà Hậu Lê — vương triều trị vì lâu nhất trong lịch sử Việt Nam."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Thanh Hóa là một trong những tỉnh đầu tiên giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Thanh Hóa là một trong những tỉnh đầu tiên giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1954",
+        "title": "Thanh Hóa bước vào thời kỳ xây dựng chính quyền mới",
+        "text": "Sau chiến thắng Điện Biên Phủ, Thanh Hóa được giải phóng và phát triển cơ sở hạ tầng mới.",
+        "detail": "Sau chiến thắng Điện Biên Phủ, Thanh Hóa được giải phóng và phát triển cơ sở hạ tầng mới."
+      }
+    ],
+    "description": "Tỉnh Thanh Hóa thuộc vùng Bắc Trung Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Tiền Giang": {
+    "title": "Vùng Tiền Giang",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Tiền Giang"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Tiền Giang trở thành tỉnh Nam Kỳ thuộc Pháp",
+        "text": "Pháp tổ chức vùng đồng bằng sông Tiền, đưa Tiền Giang vào quản lý hành chính thuộc địa.",
+        "detail": "Pháp tổ chức vùng đồng bằng sông Tiền, đưa Tiền Giang vào quản lý hành chính thuộc địa."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Người dân Tiền Giang giành chính quyền, tham gia phong trào giải phóng miền Nam.",
+        "detail": "Người dân Tiền Giang giành chính quyền, tham gia phong trào giải phóng miền Nam."
+      },
+      {
+        "year": "1976",
+        "title": "Tiền Giang được tái lập tỉnh",
+        "text": "Sau ngày giải phóng, tỉnh Tiền Giang được tái lập và tiếp tục phát triển nền nông nghiệp cây ăn trái.",
+        "detail": "Sau ngày giải phóng, tỉnh Tiền Giang được tái lập và tiếp tục phát triển nền nông nghiệp cây ăn trái."
+      }
+    ],
+    "description": "Tỉnh Tiền Giang thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Trà Vinh": {
+    "title": "Vùng Trà Vinh",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Trà Vinh"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Trà Vinh trở thành phần của Nam Kỳ thuộc địa",
+        "text": "Người Pháp tổ chức Trà Vinh vào hệ thống hành chính thuộc địa, phát triển chế biến lúa gạo và thủy sản.",
+        "detail": "Người Pháp tổ chức Trà Vinh vào hệ thống hành chính thuộc địa, phát triển chế biến lúa gạo và thủy sản."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Trà Vinh giành chính quyền dân chủ nhân dân.",
+        "detail": "Nhân dân Trà Vinh giành chính quyền dân chủ nhân dân."
+      },
+      {
+        "year": "1992",
+        "title": "Trà Vinh tái lập tỉnh",
+        "text": "Tỉnh Trà Vinh được tái lập sau khi tách ra từ Vĩnh Long, mở ra kỷ nguyên mới cho phát triển địa phương.",
+        "detail": "Tỉnh Trà Vinh được tái lập sau khi tách ra từ Vĩnh Long, mở ra kỷ nguyên mới cho phát triển địa phương."
+      }
+    ],
+    "description": "Tỉnh Trà Vinh thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Tuyên Quang": {
+    "title": "Vùng Tuyên Quang",
+    "region": "Đông Bắc Bộ",
+    "provinces": [
+      "Tuyên Quang"
+    ],
+    "events": [
+      {
+        "year": "1884",
+        "title": "Tuyên Quang trở thành tiền đồn biên giới Pháp",
+        "text": "Pháp đặt trạm quân sự ở Tuyên Quang để kiểm soát biên giới Tây Bắc và mở rộng mạng lưới hành chính.",
+        "detail": "Pháp đặt trạm quân sự ở Tuyên Quang để kiểm soát biên giới Tây Bắc và mở rộng mạng lưới hành chính."
+      },
+      {
+        "year": "1947",
+        "title": "Tuyên Quang trở thành căn cứ Kháng chiến",
+        "text": "Tuyên Quang được chọn làm căn cứ địa cách mạng trong cuộc chiến chống Pháp, là dấu ấn quan trọng của lịch sử kháng chiến.",
+        "detail": "Tuyên Quang được chọn làm căn cứ địa cách mạng trong cuộc chiến chống Pháp, là dấu ấn quan trọng của lịch sử kháng chiến."
+      },
+      {
+        "year": "1991",
+        "title": "Tuyên Quang định hình lại địa giới tỉnh",
+        "text": "Tỉnh Tuyên Quang được tổ chức lại, đánh dấu bước đi phát triển kinh tế và giao thông vùng miền núi.",
+        "detail": "Tỉnh Tuyên Quang được tổ chức lại, đánh dấu bước đi phát triển kinh tế và giao thông vùng miền núi."
+      }
+    ],
+    "description": "Tỉnh Tuyên Quang thuộc vùng Đông Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Vĩnh Long": {
+    "title": "Vùng Vĩnh Long",
+    "region": "Đồng bằng sông Cửu Long",
+    "provinces": [
+      "Vĩnh Long"
+    ],
+    "events": [
+      {
+        "year": "1867",
+        "title": "Vĩnh Long vào tay thực dân Pháp",
+        "text": "Pháp thiết lập chính quyền thuộc địa tại Vĩnh Long, phát triển nông nghiệp và hệ thống kênh rạch.",
+        "detail": "Pháp thiết lập chính quyền thuộc địa tại Vĩnh Long, phát triển nông nghiệp và hệ thống kênh rạch."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Vĩnh Long giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Vĩnh Long giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1976",
+        "title": "Vĩnh Long được tái lập tỉnh",
+        "text": "Tỉnh Vĩnh Long được tái lập, bước vào giai đoạn phát triển nông nghiệp và hậu cần sau chiến tranh.",
+        "detail": "Tỉnh Vĩnh Long được tái lập, bước vào giai đoạn phát triển nông nghiệp và hậu cần sau chiến tranh."
+      }
+    ],
+    "description": "Tỉnh Vĩnh Long thuộc vùng Đồng bằng sông Cửu Long, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Vĩnh Phúc": {
+    "title": "Vùng Vĩnh Phúc",
+    "region": "Đồng bằng Sông Hồng",
+    "provinces": [
+      "Vĩnh Phúc"
+    ],
+    "events": [
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Vĩnh Phúc giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Vĩnh Phúc giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1997",
+        "title": "Vĩnh Phúc tái lập tỉnh",
+        "text": "Tỉnh Vĩnh Phú (gồm Vĩnh Phúc và Phú Thọ) được chia tách; Vĩnh Phúc tái lập, mở ra bước phát triển mạnh mẽ về công nghiệp và đô thị.",
+        "detail": "Năm 1968, Vĩnh Phúc và Phú Thọ hợp nhất thành tỉnh Vĩnh Phú. Năm 1997, tỉnh chia tách trở lại thành Vĩnh Phúc và Phú Thọ. Vĩnh Phúc bứt phá nhờ thu hút Honda và nhiều khu công nghiệp lớn, trở thành tỉnh có thu ngân sách cao nhất miền Bắc."
+      },
+      {
+        "year": "2000",
+        "title": "Vĩnh Phúc trở thành trung tâm công nghiệp phía Bắc",
+        "text": "Vĩnh Phúc đẩy mạnh xây dựng khu công nghiệp, thu hút đầu tư và tạo sức bật kinh tế.",
+        "detail": "Vĩnh Phúc đẩy mạnh xây dựng khu công nghiệp, thu hút đầu tư và tạo sức bật kinh tế."
+      }
+    ],
+    "description": "Tỉnh Vĩnh Phúc thuộc vùng Đồng bằng Sông Hồng, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  },
+  "Yên Bái": {
+    "title": "Vùng Yên Bái",
+    "region": "Tây Bắc Bộ",
+    "provinces": [
+      "Yên Bái"
+    ],
+    "events": [
+      {
+        "year": "1884",
+        "title": "Yên Bái bị Pháp xử lý và quản lý",
+        "text": "Pháp thiết lập hệ thống đồn bốt ở Yên Bái, đưa vùng núi này vào mạng lưới hành chính biên giới.",
+        "detail": "Pháp thiết lập hệ thống đồn bốt ở Yên Bái, đưa vùng núi này vào mạng lưới hành chính biên giới."
+      },
+      {
+        "year": "1945",
+        "title": "Cách mạng Tháng Tám toàn quốc",
+        "text": "Nhân dân Yên Bái giành chính quyền trong Cách mạng Tháng Tám.",
+        "detail": "Nhân dân Yên Bái giành chính quyền trong Cách mạng Tháng Tám."
+      },
+      {
+        "year": "1991",
+        "title": "Yên Bái tái lập tỉnh",
+        "text": "Tỉnh Yên Bái được tổ chức lại, phát triển nông nghiệp, thu hút đầu tư và bảo tồn văn hóa dân tộc.",
+        "detail": "Tỉnh Yên Bái được tổ chức lại, phát triển nông nghiệp, thu hút đầu tư và bảo tồn văn hóa dân tộc."
+      }
+    ],
+    "description": "Tỉnh Yên Bái thuộc vùng Tây Bắc Bộ, có lịch sử, văn hóa và phát triển địa phương đặc trưng."
+  }
+}
